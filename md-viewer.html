@@ -46,7 +46,9 @@
             
             // Format the title
             const fileName = filePath.split('/').pop().replace('.md', '');
-            document.getElementById('file-title').textContent = formatName(fileName);
+            const isClass = filePath.includes('classes/');
+            const contentType = isClass ? 'Class' : 'Game';
+            document.getElementById('file-title').textContent = `${formatName(fileName)} ${contentType}`;
             document.title = `${formatName(fileName)} - Grappling Games`;
             
             // Fetch the markdown content from GitHub

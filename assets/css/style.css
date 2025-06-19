@@ -24,6 +24,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 header {
@@ -42,6 +43,7 @@ header h1 {
 main {
     min-height: 70vh;
     padding-bottom: 3rem;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 footer {
@@ -67,11 +69,38 @@ footer a:hover {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     padding: 2rem;
+    overflow: auto; /* Ensures content doesn't overflow */
 }
 
-#games-tree ul {
+.directory-section {
+    margin-bottom: 2rem;
+    position: relative; /* Establishes positioning context */
+    width: 100%; /* Ensure full width */
+}
+
+.directory-section h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--secondary-color);
+}
+
+#games-tree ul,
+#classes-tree ul {
     list-style-type: none;
     padding-left: 20px;
+    margin: 0; /* Reset margin */
+    width: 100%; /* Ensure full width */
+    position: relative; /* For positioning context */
+}
+
+/* Ensure directory trees wrap properly and don't overflow */
+#games-tree, 
+#classes-tree {
+    width: 100%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
 }
 
 .folder {
@@ -79,15 +108,19 @@ footer a:hover {
     padding: 8px 0;
     display: flex;
     align-items: center;
+    flex-wrap: nowrap; /* Prevent wrapping */
+    width: 100%; /* Full width */
 }
 
 .folder:before {
     content: "📁";
     margin-right: 10px;
+    flex-shrink: 0; /* Prevent icon from shrinking */
 }
 
 .folder.open:before {
     content: "📂";
+    flex-shrink: 0; /* Prevent icon from shrinking */
 }
 
 .file {
@@ -95,11 +128,18 @@ footer a:hover {
     display: block;
     text-decoration: none;
     color: var(--text-color);
+    white-space: normal; /* Allow text to wrap */
+    word-break: break-word; /* Break long words if needed */
+    width: 100%; /* Full width */
+    position: relative; /* For positioning context */
 }
 
 .file:before {
     content: "📄";
     margin-right: 10px;
+    position: absolute;
+    left: 0;
+    flex-shrink: 0; /* Prevent icon from shrinking */
 }
 
 .file:hover {
@@ -113,6 +153,9 @@ footer a:hover {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-top: 2rem;
+    overflow-wrap: break-word; /* Ensure long text doesn't overflow */
+    word-wrap: break-word;
+    word-break: break-word;
 }
 
 .markdown-content h1, 
@@ -125,12 +168,18 @@ footer a:hover {
 
 .markdown-content p {
     margin-bottom: 1rem;
+    max-width: 100%; /* Ensure text doesn't overflow */
 }
 
 .markdown-content ul, 
 .markdown-content ol {
     margin-left: 2rem;
     margin-bottom: 1rem;
+    max-width: 100%; /* Ensure lists don't overflow */
+}
+
+.markdown-content a {
+    word-break: break-all; /* Break long URLs */
 }
 
 .back-button {
