@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grappling Game Viewer</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Grappling Games</h1>
+            <p>A collection of training drills and games for grappling practice</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Back to Directory</a>
+        
+        <div id="markdown-container" class="markdown-content">
+            <h2 id="file-title">Loading...</h2>
+            <div id="markdown-content"></div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Last updated: June 19, 2025</p>
+            <p><a href="https://github.com/mennlo/grappling-games">View on GitHub <i class="fab fa-github"></i></a></p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get the file parameter from the URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const filePath = urlParams.get('file');
+            
+            if (!filePath) {
+                document.getElementById('markdown-content').innerHTML = '<p>Error: No file specified</p>';
+                document.getElementById('file-title').textContent = 'Error';
+                return;
+            }
+            
+            // Format the title
+            const fileName = filePath.split('/').pop().replace('.md', '');
+            document.getElementById('file-title').textContent = formatName(fileName);
+            document.title = `${formatName(fileName)} - Grappling Games`;
+            
+            // Fetch the markdown content from GitHub
+            const baseRepoUrl = 'https://api.github.com/repos/mennlo/grappling-games/contents/';
+            
+            fetch(`${baseRepoUrl}${filePath}`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Error fetching file: ${response.statusText}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // GitHub API returns content as base64 encoded
+                    const content = atob(data.content);
+                    
+                    // Convert markdown to HTML
+                    document.getElementById('markdown-content').innerHTML = marked.parse(content);
+                })
+                .catch(error => {
+                    console.error('Error loading markdown file:', error);
+                    document.getElementById('markdown-content').innerHTML = `<p>Error loading file: ${error.message}</p>`;
+                });
+            
+            // Format names for display
+            function formatName(name) {
+                return name.replace(/-/g, ' ')
+                    .split(' ')
+                    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                    .join(' ');
+            }
+        });
+    </script>
+</body>
+</html>
