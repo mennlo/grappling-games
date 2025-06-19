@@ -1,20 +1,41 @@
-# Grappling Games: Guard Passing Drills
+# Quarter guard passing class
+
+This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
+
+1. [Grip Fighting - Inside Position](/games/standing/grip-fighting-inside-position.md)
+2. [Grip Fighting - Inside/Outside Position](/games/standing/grip-fighting-inside-outside-position.md)
+3. [Single Leg Control and Defense](/games/standing/single-leg-control-and-defense.md)
+4. [HQ Position Passing Drill](/games/guard/passing/hq-position-passing-drill.md)
+5. [Quarter Guard Double Underhooks Passing](/games/guard/passing/quarter-guard-double-underhooks-passing.md)
+6. [Quarter Guard Overhook/Underhook Passing](/games/guard/passing/quarter-guard-overhook-underhook-passing.md)
+7. [Quarter Guard Upright Passing](/games/guard/passing/quarter-guard-upright-passing.md)
+8. [Half Guard Flattening and Passing](/games/guard/passing/half-guard-flattening-and-passing.md)
+9. [Quarter Guard Live Training](/games/guard/passing/quarter-guard-live-training.md)
 
 ## Standing Drills
 
-### Standing 1
+### Standing 1 - [Grip Fighting - Inside Position](/games/standing/grip-fighting-inside-position.md)
+
+**Overview:** A standing drill focused on establishing inside position through strategic grip fighting.
+
 **Time:** 2 minutes, 2 partners - continuous game  
 **Position:** Disconnected  
 **Objective:** Targeting grips on wrists, elbows or head, try to obtain inside position with arms and head position  
 **Win Condition:** No win
 
-### Standing 2
+### Standing 2 - [Grip Fighting - Inside/Outside Position](/games/standing/grip-fighting-inside-outside-position.md)
+
+**Overview:** A standing drill focused on establishing either inside or outside position through strategic grip fighting.
+
 **Time:** 2 minutes, 2 partners - continuous game  
 **Position:** Disconnected  
 **Objective:** Targeting grips on wrists, elbows or head/collar, try to obtain inside or outside position with arms and head position  
 **Win Condition:** No win
 
-### Standing 3
+### Standing 3 - [Single Leg Control and Defense](/games/standing/single-leg-control-and-defense.md)
+
+**Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control.
+
 **Time:** 2 minutes, 2 partners - switching back and forth
 
 #### Attacking Player
@@ -29,7 +50,10 @@
 
 ## HQ Passing
 
-### Passing 1
+### Passing 1 - [HQ Position Passing Drill](/games/guard/passing/hq-position-passing-drill.md)
+
+**Overview:** A drill focusing on the Headquarters (HQ) passing position with one player standing and splitting the bottom player's legs.
+
 **Time:** 3 minutes, 2 partners - switching back and forth
 
 #### Top Player
@@ -41,11 +65,14 @@
 **Position:** Lying on your back with one leg inside one leg outside  
 **Objective:** Keep your feet and hands between you and your partner. Make and maintain connections to the inside of your partner's legs using your hands and feet  
 **Constraints:** No sweeps allowed  
-**Win:** Connect the tops of both your feet inside your partner's knees, or stand up
+**Win Condition:** Connect the tops of both your feet inside your partner's knees, or stand up
 
 ## Quarter-Guard Passing
 
-### Passing 1
+### Passing 1 - [Quarter Guard Double Underhooks Passing](/games/guard/passing/quarter-guard-double-underhooks-passing.md)
+
+**Overview:** A focused drill on passing the quarter guard from a double underhooks position with chest-to-chest pressure.
+
 **Time:** 5 minutes - switching back and forth
 
 #### Top Player
@@ -58,7 +85,10 @@
 **Objective:** Free yourself from double underhooks  
 **Win Condition:** Underhooks removed, both elbows to ribs with nothing under them
 
-### Passing 2
+### Passing 2 - [Quarter Guard Overhook/Underhook Passing](/games/guard/passing/quarter-guard-overhook-underhook-passing.md)
+
+**Overview:** A focused drill on passing the quarter guard from an overhook/underhook or head and arm control position.
+
 **Time:** 5 minutes - switching back and forth
 
 #### Top Player
@@ -71,7 +101,10 @@
 **Objective:** Free yourself from underhooks  
 **Win Condition:** Underhooks removed, both elbows to ribs with nothing under them
 
-### Passing 3
+### Passing 3 - [Quarter Guard Upright Passing](/games/guard/passing/quarter-guard-upright-passing.md)
+
+**Overview:** A drill focusing on passing the quarter guard from an upright position without initial upper body connections.
+
 **Time:** 5 minutes - switching back and forth
 
 #### Top Player
@@ -84,7 +117,10 @@
 **Objective:** Prevent underhooks and chest connection  
 **Win Condition:** Connect your knees and elbows between you and your partner, stand, or reverse the position
 
-### Passing 4
+### Passing 4 - [Half Guard Flattening and Passing](/games/guard/passing/half-guard-flattening-and-passing.md)
+
+**Overview:** A drill focusing on flattening an opponent in half guard and establishing dominant control for the pass.
+
 **Time:** 5 minutes - switching back and forth
 
 #### Top Player
@@ -102,3 +138,7 @@
 ## Conclusion
 
 Finish with live goes from quarter guard with any connections they agree on.
+
+## Additional Resources
+
+For an overview of all quarter guard passing games and additional teaching notes, see the [Quarter Guard Passing README](/games/guard/passing/README.md).
