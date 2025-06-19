@@ -42,7 +42,7 @@ This class consists of several progressive drills that build upon each other. Ea
 #### Attacking Player
 **Position:** One of your partner's legs is held with your hands and arms between your legs, head on chest  
 **Objective:** Stay connected to the single leg and move your partner around. Move the leg to different parts of your body, and attempt to take your partner down to their hands  
-**Win Condition:** No win
+**Win Condition:** Touch opponents hands to the mat for 3 seconds.
 
 #### Defending Player
 **Position:** Your partner has a single leg grip, and you are balanced on one foot  
