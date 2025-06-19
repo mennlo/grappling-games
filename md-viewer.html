@@ -17,7 +17,9 @@
     </header>
 
     <main class="container">
-        <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Back to Directory</a>
+        <div class="navigation-controls">
+            <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Back to Directory</a>
+        </div>
         
         <div id="markdown-container" class="markdown-content">
             <h2 id="file-title">Loading...</h2>
@@ -46,7 +48,9 @@
             
             // Format the title
             const fileName = filePath.split('/').pop().replace('.md', '');
-            document.getElementById('file-title').textContent = formatName(fileName);
+            const isClass = filePath.includes('classes/');
+            const contentType = isClass ? 'Class' : 'Game';
+            document.getElementById('file-title').textContent = `${formatName(fileName)} ${contentType}`;
             document.title = `${formatName(fileName)} - Grappling Games`;
             
             // Fetch the markdown content from GitHub

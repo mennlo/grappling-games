@@ -3,11 +3,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const baseRepoUrl = 'https://api.github.com/repos/mennlo/grappling-games/contents/';
     const basePageUrl = window.location.href.split('index.html')[0];
     
-    // The directory we want to list
+    // The directories we want to list
     const gamesDirectory = 'games';
+    const classesDirectory = 'classes';
     
-    // Get the games tree element
+    // Get the tree elements
     const gamesTreeElement = document.getElementById('games-tree');
+    const classesTreeElement = document.getElementById('classes-tree');
     
     // Function to create a tree view from the directory structure
     async function createDirectoryTree(path = gamesDirectory, parentElement = gamesTreeElement) {
@@ -68,8 +70,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
             // Update the heading if we're at the root level
-            if (path === gamesDirectory) {
-                document.querySelector('#directory-listing h2').textContent = 'Grappling Games Directory';
+            if (path === gamesDirectory || path === classesDirectory) {
+                document.querySelector('#directory-listing h2').textContent = 'Grappling Directory';
             }
             
         } catch (error) {
@@ -87,6 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
             .join(' ');
     }
     
-    // Initialize the directory tree
-    createDirectoryTree();
+    // Initialize the directory trees
+    createDirectoryTree(gamesDirectory, gamesTreeElement);
+    createDirectoryTree(classesDirectory, classesTreeElement);
 });

@@ -2,19 +2,19 @@
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Grip Fighting - Inside Position](/games/standing/grip-fighting-inside-position.md)
-2. [Grip Fighting - Inside/Outside Position](/games/standing/grip-fighting-inside-outside-position.md)
-3. [Single Leg Control and Defense](/games/standing/single-leg-control-and-defense.md)
-4. [HQ Position Passing Drill](/games/guard/passing/hq-position-passing-drill.md)
-5. [Quarter Guard Double Underhooks Passing](/games/guard/passing/quarter-guard-double-underhooks-passing.md)
-6. [Quarter Guard Overhook/Underhook Passing](/games/guard/passing/quarter-guard-overhook-underhook-passing.md)
-7. [Quarter Guard Upright Passing](/games/guard/passing/quarter-guard-upright-passing.md)
-8. [Half Guard Flattening and Passing](/games/guard/passing/half-guard-flattening-and-passing.md)
-9. [Quarter Guard Live Training](/games/guard/passing/quarter-guard-live-training.md)
+1. [Grip Fighting - Inside Position](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position.md)
+2. [Grip Fighting - Inside/Outside Position](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-outside-position.md)
+3. [Single Leg Control and Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense.md)
+4. [HQ Position Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/hq-position-passing-drill.md)
+5. [Quarter Guard Double Underhooks Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/quarter-guard-double-underhooks-passing.md)
+6. [Quarter Guard Overhook/Underhook Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/quarter-guard-overhook-underhook-passing.md)
+7. [Quarter Guard Upright Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/quarter-guard-upright-passing.md)
+8. [Half Guard Flattening and Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/half-guard-flattening-and-passing.md)
+9. [Quarter Guard Live Training](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/quarter-guard-live-training.md)
 
 ## Standing Drills
 
-### Standing 1 - [Grip Fighting - Inside Position](/games/standing/grip-fighting-inside-position.md)
+### Standing 1 - [Grip Fighting - Inside Position](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position.md)
 
 **Overview:** A standing drill focused on establishing inside position through strategic grip fighting.
 
@@ -23,7 +23,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Targeting grips on wrists, elbows or head, try to obtain inside position with arms and head position  
 **Win Condition:** No win
 
-### Standing 2 - [Grip Fighting - Inside/Outside Position](/games/standing/grip-fighting-inside-outside-position.md)
+### Standing 2 - [Grip Fighting - Inside/Outside Position](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-outside-position.md)
 
 **Overview:** A standing drill focused on establishing either inside or outside position through strategic grip fighting.
 
@@ -32,7 +32,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Targeting grips on wrists, elbows or head/collar, try to obtain inside or outside position with arms and head position  
 **Win Condition:** No win
 
-### Standing 3 - [Single Leg Control and Defense](/games/standing/single-leg-control-and-defense.md)
+### Standing 3 - [Single Leg Control and Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense.md)
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control.
 
@@ -50,7 +50,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## HQ Passing
 
-### Passing 1 - [HQ Position Passing Drill](/games/guard/passing/hq-position-passing-drill.md)
+### Passing 1 - [HQ Position Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/hq-position-passing-drill.md)
 
 **Overview:** A drill focusing on the Headquarters (HQ) passing position with one player standing and splitting the bottom player's legs.
 
@@ -69,7 +69,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Quarter-Guard Passing
 
-### Passing 1 - [Quarter Guard Double Underhooks Passing](/games/guard/passing/quarter-guard-double-underhooks-passing.md)
+### Passing 1 - [Quarter Guard Double Underhooks Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/quarter-guard-double-underhooks-passing.md)
 
 **Overview:** A focused drill on passing the quarter guard from a double underhooks position with chest-to-chest pressure.
 
@@ -85,7 +85,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Free yourself from double underhooks  
 **Win Condition:** Underhooks removed, both elbows to ribs with nothing under them
 
-### Passing 2 - [Quarter Guard Overhook/Underhook Passing](/games/guard/passing/quarter-guard-overhook-underhook-passing.md)
+### Passing 2 - [Quarter Guard Overhook/Underhook Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/quarter-guard-overhook-underhook-passing.md)
 
 **Overview:** A focused drill on passing the quarter guard from an overhook/underhook or head and arm control position.
 
@@ -101,7 +101,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Free yourself from underhooks  
 **Win Condition:** Underhooks removed, both elbows to ribs with nothing under them
 
-### Passing 3 - [Quarter Guard Upright Passing](/games/guard/passing/quarter-guard-upright-passing.md)
+### Passing 3 - [Quarter Guard Upright Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/quarter-guard-upright-passing.md)
 
 **Overview:** A drill focusing on passing the quarter guard from an upright position without initial upper body connections.
 
@@ -117,7 +117,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent underhooks and chest connection  
 **Win Condition:** Connect your knees and elbows between you and your partner, stand, or reverse the position
 
-### Passing 4 - [Half Guard Flattening and Passing](/games/guard/passing/half-guard-flattening-and-passing.md)
+### Passing 4 - [Half Guard Flattening and Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/half-guard-flattening-and-passing.md)
 
 **Overview:** A drill focusing on flattening an opponent in half guard and establishing dominant control for the pass.
 
@@ -138,7 +138,3 @@ This class consists of several progressive drills that build upon each other. Ea
 ## Conclusion
 
 Finish with live goes from quarter guard with any connections they agree on.
-
-## Additional Resources
-
-For an overview of all quarter guard passing games and additional teaching notes, see the [Quarter Guard Passing README](/games/guard/passing/README.md).
