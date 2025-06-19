@@ -1,0 +1,11 @@
+# This is a CODEOWNERS file for the grappling-games repository
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in the repository
+# and will be requested for review when someone opens a pull request.
+*       @mennlo
+
+# You can also specify different owners for specific files or directories
+# For example:
+# /docs/  @mennlo @another-username
+# *.md    @mennlo @markdown-reviewer
