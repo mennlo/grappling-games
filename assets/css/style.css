@@ -46,6 +46,13 @@ main {
     overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
+.navigation-controls {
+    width: 100%;
+    display: block;
+    margin-bottom: 1rem;
+    clear: both;
+}
+
 footer {
     background-color: var(--primary-color);
     color: white;
@@ -152,10 +159,13 @@ footer a:hover {
     background-color: var(--card-background);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    margin-top: 2rem;
+    margin-top: 0.5rem;
     overflow-wrap: break-word; /* Ensure long text doesn't overflow */
     word-wrap: break-word;
     word-break: break-word;
+    clear: both; /* Ensure it starts below other elements */
+    width: 100%; /* Take up full width */
+    box-sizing: border-box; /* Include padding in width calculation */
 }
 
 .markdown-content h1, 
@@ -184,12 +194,15 @@ footer a:hover {
 
 .back-button {
     display: inline-block;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
     padding: 0.5rem 1rem;
     background-color: var(--secondary-color);
     color: white;
     text-decoration: none;
     border-radius: 4px;
+    clear: both;
+    float: none;
 }
 
 .back-button:hover {
