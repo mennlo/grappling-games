@@ -1,4 +1,5 @@
 # Quarter guard passing class
+**Class Length:** 1 hour
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
