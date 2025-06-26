@@ -8,8 +8,7 @@ This class consists of several progressive drills that build upon each other. Ea
 3. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 4. [Double Sleeve Sweep - Dirty Feet](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-dirty-feet.md)
 5. [Split and Chest-to-Chest](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-and-chest-to-chest.md)
-6. [Double Sleeve Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-submit-or-pass.md)
-7. [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
+6. [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
 
 ## Standing Drills
 
