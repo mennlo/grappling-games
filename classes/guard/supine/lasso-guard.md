@@ -3,8 +3,8 @@
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
-2. [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+1. [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+2. [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
 3. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 4. [Double Sleeve Sweep - Dirty Feet](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-dirty-feet.md)
 5. [Split and Chest-to-Chest](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-and-chest-to-chest.md)
@@ -12,7 +12,16 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### Standing 1 - [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
+### Standing 1 - [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+
+**Overview:** A standing drill focused on establishing inside position through strategic grip fighting, with the goal of obtaining an effective underhook.
+
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
+**Position:** Disconnected  
+**Objective:** Targeting grips on wrists, elbows or head, try to obtain inside position with arms and head position in an effort to get an effective underhook.  
+**Win Condition:** Get an effective underhook
+
+### Standing 2 - [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with the addition of a bodylock finish.
 
@@ -27,15 +36,6 @@ This class consists of several progressive drills that build upon each other. Ea
 **Position:** Your partner has a single leg grip, and you are balanced on one foot  
 **Objective:** Stay balanced and remove your leg from the situation by any means  
 **Win Condition:** Leg is removed from the single leg situation
-
-### Standing 2 - [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
-
-**Overview:** A standing drill focused on establishing inside position through strategic grip fighting, with the goal of obtaining an effective underhook.
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
-**Position:** Disconnected  
-**Objective:** Targeting grips on wrists, elbows or head, try to obtain inside position with arms and head position in an effort to get an effective underhook.  
-**Win Condition:** Get an effective underhook
 
 ## Guard Drills
 
@@ -78,7 +78,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 #### Top Player
 **Position:** On your knees, controlling your partner's shins while they have double sleeve grips and feet on your hips  
-**Objective:** Keep at least one knee on the mat at all times, keep your partner's feet off of you, and keep your partner in front of you (do not allow them to get an angle or pass you)  
+**Objective:** Keep at least one knee on the mat at all times, keep your partner's feet off of you, and keep your partner in front of you
 **Constraints:** Must keep at least one knee on the mat, cannot pass the guard  
 **Win:** None
 
