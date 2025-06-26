@@ -1,4 +1,4 @@
-# Single Leg Control and Defense
+# Single Leg Control and Defense to hands
 
 ## Overview
 A drilling exercise where partners alternate between controlling a single leg and defending against single leg control.
@@ -8,7 +8,7 @@ A drilling exercise where partners alternate between controlling a single leg an
 
 ### Attacking Player
 **Position:** One of your partner's legs is held with your hands and arms between your legs, head on chest  
-**Objective:** Stay connected to the single leg and move your partner around. Move the leg to different parts of your body, and attempt to take your partner down to their hands  
+**Objective:** Stay connected to the single leg and move your partner around. Move the leg to different parts of your body, and attempt to take your partner down to their hands 
 **Win Condition:** Touch opponents hands to the mat for 3 seconds.
 
 ### Defending Player
