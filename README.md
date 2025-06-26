@@ -16,7 +16,7 @@ The games and classes are available as a website at [https://mennlo.github.io/gr
 
 ### Adding a New Game
 
-1. Identify which category your game belongs in (e.g., `guard/passing`, `standing`, etc.)
+1. Identify which category your game belongs in (e.g., `guard/supine`, `standing`, etc.)
 2. Create a new Markdown file in the appropriate directory following the naming convention: `descriptive-game-name.md`
 3. Use the template below for your game content:
 
@@ -51,7 +51,7 @@ A brief description of the game and its purpose.
 
 ### Adding a New Class
 
-1. Identify which category your class belongs in (e.g., `guard/passing`, `submissions`, etc.)
+1. Identify which category your class belongs in (e.g., `guard/supine`, `submissions`, etc.)
 2. Create a new Markdown file in the `/classes/` directory following the naming convention: `descriptive-class-name.md`
 3. Use the template below for your class content:
 
