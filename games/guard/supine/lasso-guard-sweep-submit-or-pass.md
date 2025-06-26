@@ -4,7 +4,7 @@
 A drill starting from lasso guard, with the bottom player having a lasso (one leg threaded around the top player's arm and gripping the sleeve) and the other foot on the hip, while the top player is on their knees.
 
 ## Details
-**Time:** 3 minutes, 2 partners - switching back and forth  
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
 
 ### Bottom Player
 **Position:** On your back with one leg lassoed around your partner's arm (gripping the sleeve) and the other foot on their hip or bicep  

@@ -4,7 +4,7 @@
 A drill focusing on splitting the opponent's guard and achieving chest-to-chest connection with one leg inside (splitting the partner's legs), rather than fully passing. This game develops the ability to open the guard, control the legs, and establish strong passing positions, while the bottom player works on guard retention.
 
 ## Details
-**Time:** 3 minutes, 2 partners - switching back and forth  
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
 
 ### Top Player
 **Position:** On your knees, facing your partner's supine guard. No grips at the start.  

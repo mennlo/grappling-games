@@ -4,7 +4,7 @@
 A drill starting from double sleeve grips with the bottom player having feet on the hips and the top player on their knees with shin grips. This drill develops guard retention, sweeping, submission, and passing skills from a classic open guard scenario.
 
 ## Details
-**Time:** 3 minutes, 2 partners - switching back and forth  
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
 
 ### Bottom Player
 **Position:** On your back with double sleeve grips and both feet on your partner's hips  

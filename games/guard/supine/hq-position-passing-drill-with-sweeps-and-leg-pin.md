@@ -4,7 +4,7 @@
 A drill focusing on the Headquarters (HQ) passing position with one player standing and splitting the bottom player's legs.
 
 ## Details
-**Time:** 3 minutes, 2 partners - switching back and forth
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 ### Top Player
 **Position:** Standing and splitting your partner's legs  

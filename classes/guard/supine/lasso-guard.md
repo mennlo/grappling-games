@@ -5,6 +5,11 @@ This class consists of several progressive drills that build upon each other. Ea
 
 1. [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
 2. [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+3. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
+4. [Double Sleeve Sweep - Dirty Feet](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-dirty-feet.md)
+5. [Split and Chest-to-Chest](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-and-chest-to-chest.md)
+6. [Double Sleeve Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-submit-or-pass.md)
+7. [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
 
 ## Standing Drills
 
@@ -12,7 +17,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with the addition of a bodylock finish.
 
-**Time:** 3 minutes, 2 partners - switching back and forth
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Attacking Player
 **Position:** One of your partner's legs is held with your hands and arms between your legs, head on chest  
@@ -28,7 +33,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Overview:** A standing drill focused on establishing inside position through strategic grip fighting, with the goal of obtaining an effective underhook.
 
-**Time:** 3 minutes, 2 partners - switching back and forth  
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
 **Position:** Disconnected  
 **Objective:** Targeting grips on wrists, elbows or head, try to obtain inside position with arms and head position in an effort to get an effective underhook.  
 **Win Condition:** Get an effective underhook
@@ -39,7 +44,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Overview:** A drill focusing on the Headquarters (HQ) passing position with one player standing and splitting the bottom player's legs, including sweeps and leg pinning.
 
-**Time:** 3 minutes, 2 partners - switching back and forth
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Top Player
 **Position:** Standing and splitting your partner's legs  
@@ -63,7 +68,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Overview:** A simplified drill starting from double sleeve grips with the bottom player supine, feet on the hips, and the top player on their knees with shin grips. This drill focuses on maintaining connections, guard retention, and basic open guard objectives.
 
-**Time:** 3 minutes, 2 partners - switching back and forth
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Bottom Player
 **Position:** On your back with double sleeve grips and both feet on your partner's hips  
@@ -82,7 +87,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Overview:** A drill focusing on splitting the opponent's guard and achieving chest-to-chest connection with one leg inside (splitting the partner's legs), rather than fully passing. This game develops the ability to open the guard, control the legs, and establish strong passing positions, while the bottom player works on guard retention.
 
-**Time:** 3 minutes, 2 partners - switching back and forth
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Top Player
 **Position:** On your knees, facing your partner's supine guard. No grips at the start.  
@@ -96,29 +101,11 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** Only goal is to retain guard and keep feet between the top player's legs. No cloth grips allowed.  
 **Win:** Keep your feet between your partner's legs for the duration of the round (no sweeps or submissions).
 
-### Guard 4 - [Double Sleeve Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-submit-or-pass.md)
-
-**Overview:** A drill starting from double sleeve grips with the bottom player having feet on the hips and the top player on their knees with shin grips. This drill develops guard retention, sweeping, submission, and passing skills from a classic open guard scenario.
-
-**Time:** 3 minutes, 2 partners - switching back and forth
-
-#### Bottom Player
-**Position:** On your back with double sleeve grips and both feet on your partner's hips  
-**Objective:** Use your grips and feet to off-balance your partner, looking to sweep, submit, or stand up  
-**Constraints:**   
-**Win:** Successfully sweep your partner, submit, or stand up to your feet with control  
-
-#### Top Player
-**Position:** On your knees, controlling your partner's shins while they have double sleeve grips and feet on your hips  
-**Objective:** Break the sleeve grips, control the legs, and pass the guard to achieve chest-to-chest or chest-to-back with a head and arm  
-**Constraints:**  
-**Win:** Pass the guard and establish chest-to-chest or chest-to-back with a head and arm  
-
-### Guard 5 - [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
+### Guard 4 - [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
 
 **Overview:** A drill starting from lasso guard, with the bottom player having a lasso (one leg threaded around the top player's arm and gripping the sleeve) and the other foot on the hip, while the top player is on their knees.
 
-**Time:** 3 minutes, 2 partners - switching back and forth
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Bottom Player
 **Position:** On your back with one leg lassoed around your partner's arm (gripping the sleeve) and the other foot on their hip or bicep  
@@ -134,4 +121,4 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Conclusion
 
-Finish with live goes from lasso guard or related positions as agreed upon by the partners.
+Finish with live goes from lasso guard or related open guard positions as agreed upon by the partners.
