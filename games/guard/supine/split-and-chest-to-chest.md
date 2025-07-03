@@ -16,7 +16,7 @@ A drill focusing on splitting the opponent's guard and achieving chest-to-chest 
 **Position:** Supine, feet on the inside between your partner's legs. No grips at the start.  
 **Objective:** Retain guard by keeping your feet between your partner's legs at all times. Use hooks, frames, and movement to prevent the top player from achieving chest-to-chest.  
 **Constraints:** Only goal is to retain guard and keep feet between the top player's legs. No cloth grips allowed.  
-**Win:** Keep your feet between your partner's legs for the duration of the round (no sweeps or submissions).
+**Win:** Keep your feet between your partner's legs for the duration of the round, sweep if you can (no submissions).
 
 ## Instructions
 1. Partners start with bottom player supine, feet on the inside between the top player's knees; top player on knees, facing the guard. Neither player starts with grips, but can form grips after the start (no cloth grips allowed).
