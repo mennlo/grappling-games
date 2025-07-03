@@ -1,9 +1,5 @@
-# Front Headlock and Guard Passing Class
-**Class Le### Standing 3 - [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
-
-**Overview:** A standing drill focusing on establishing the front headlock position from a T-position with an underhook, with the goal of controlling the opponent and taking them down to their hands.
-
-**Time:** 2 minutes, 2 partners or 4 minutes total - switching back and forth** 1 hour
+# Front Headlock and Spider Guard Passing Class
+**Class Length:** 1 hour
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
