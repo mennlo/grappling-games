@@ -1,4 +1,4 @@
-# Back Control Framing and Pinning
+# Side Control Framing and Pinning
 
 ## Overview
 A pinning drill where the bottom player works to maintain frames at the hip and neck to prevent control, while the top player attempts to establish dominant crossface and underhook control.
