@@ -98,7 +98,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Position:** Supine, feet on the inside between your partner's legs. No grips at the start.  
 **Objective:** Retain guard by keeping your feet between your partner's legs at all times. Use hooks, frames, and movement to prevent the top player from achieving chest-to-chest.  
 **Constraints:** Only goal is to retain guard and keep feet between the top player's legs. No cloth grips allowed.  
-**Win:** Keep your feet between your partner's legs for the duration of the round (no sweeps or submissions).
+**Win:** Keep your feet between your partner's legs for the duration of the round, sweep if you can (no submissions).
 
 ### Guard 4 - [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
 
