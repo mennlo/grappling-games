@@ -5,4 +5,4 @@ show_downloads: true
 github:
   repository_url: https://github.com/mennlo/grappling-games
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
