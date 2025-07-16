@@ -4,7 +4,7 @@
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
 1. [Underhook or Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
-2. [Standing Hand Fighting](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/standing-hand-fighting.md)
+2. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 3. [Split Legs Knee Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-legs-knee-touch.md)
 4. [Seated Guard Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-control.md)
 5. [Toreando Leg Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/toreando-leg-control.md)
@@ -30,21 +30,15 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent your partner from establishing control and work to gain your own underhook or Russian tie  
 **Win:** Break your partner's control and establish your own underhook or Russian tie  
 
-### Standing 2 - [Standing Hand Fighting](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/standing-hand-fighting.md)
+### Standing 2 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
-**Overview:** A standing drill focused on hand fighting and establishing control through touch points before securing a clinch position.
+**Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-#### Attacker
-**Position:** Standing, facing your partner  
-**Objective:** Score 3 touches (underhook or hand behind the knee) before your partner can close their hands around you  
-**Win:** Achieve 3 touches and successfully get hands around partner's shoulders or lower  
-
-#### Defender
-**Position:** Standing, facing your partner  
-**Objective:** Prevent your partner from achieving 3 touches and close your hands around them first  
-**Win:** Successfully close your hands around your partner before they score 3 touches  
+**Position:** Standing facing your partner with no initial connections  
+**Objective:** Complete three touches (any combination of underhook, hand behind knee, or Russian tie) before establishing a bodylock, or bypass these requirements by shooting for a double leg takedown  
+**Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown  
 
 ## Ground Work Drills
 
