@@ -6,12 +6,6 @@ A competitive standing drill where both partners start with no connections and r
 ## Details
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-### Player One
-**Position:** Standing facing your partner with no initial connections  
-**Objective:** Complete three touches (any combination of underhook, hand behind knee, or Russian tie) before establishing a bodylock, or bypass these requirements by shooting for a double leg takedown  
-**Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown
-
-### Player Two
 **Position:** Standing facing your partner with no initial connections  
 **Objective:** Complete three touches (any combination of underhook, hand behind knee, or Russian tie) before establishing a bodylock, or bypass these requirements by shooting for a double leg takedown  
 **Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown
