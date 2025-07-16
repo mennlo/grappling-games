@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/tactile@v0.2.0
 title: Grappling Games
 description: A collection of training drills and games for grappling practice
 show_downloads: true
