@@ -10,7 +10,7 @@ A standing drill focusing on controlling the opponent from a rear standing bodyl
 **Position:** Standing behind your partner with a bodylock (hands connected around their waist/torso)  
 **Objective:** Use pressure, foot positioning, and leg movements to disrupt your partner's base and force their hands to the mat  
 **Constraints:**  
-**Win:** No specific win condition; focus on getting your partner's hands on the mat keeping them there for as long as possible  
+**Win:** No win condition, continuously trying to get your opponents hands to the mat  
 
 ### Defending Player
 **Position:** Standing with your partner behind you in a bodylock  
