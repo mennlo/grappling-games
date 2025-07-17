@@ -10,7 +10,7 @@ A standing drill focusing on maintaining the front headlock position while contr
 **Position:** Standing with your chest covering your partner's head in a front headlock position, hands in any configuration  
 **Objective:** Maintain control of the front headlock position and keep your partner's head trapped  
 **Constraints:**  
-**Win:** Maintain the position for the duration of the round  
+**Win:** No win condition, continuously trying to get your opponents hands to the mat 
 
 ### Defending Player
 **Position:** Bent forward with your head trapped in your partner's front headlock control  
