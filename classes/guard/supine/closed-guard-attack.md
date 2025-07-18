@@ -72,7 +72,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 #### Bottom Player
 **Position:** On your back with closed guard around your partner's waist  
-**Objective:** Disrupt your partner's base and force them to touch the mat with their hands or knees three times get an overhook and on your side
+**Objective:** Disrupt your partner's base and force them to touch the mat with their hands or knees three times get an overhook and on your side  
 **Win:** Successfully force your partner to touch the mat three times or get an overhook and on your side
 
 #### Top Player
