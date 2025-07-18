@@ -66,19 +66,19 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### Guard 1 - [Closed Guard Base Disruption](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
 
-**Overview:** A closed guard drill focusing on the bottom player disrupting the top player's base by forcing them to touch the mat three times.
+**Overview:** A closed guard drill focusing on the bottom player disrupting the top player's base by forcing them to touch the mat three times or getting an overhook and on your side.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Bottom Player
 **Position:** On your back with closed guard around your partner's waist  
-**Objective:** Disrupt your partner's base and force them to touch the mat with their hands or knees three times  
-**Win:** Successfully force your partner to touch the mat three times
+**Objective:** Disrupt your partner's base and force them to touch the mat with their hands or knees three times get an overhook and on your side
+**Win:** Successfully force your partner to touch the mat three times or get an overhook and on your side
 
 #### Top Player
 **Position:** Kneeling inside your partner's closed guard  
 **Objective:** Maintain your base and posture without allowing your hands or knees to touch the mat  
-**Win:** Successfully maintain your base without touching the mat three times
+**Win:** Successfully maintain your base without touching the mat three times or allowing your partner to get an overhook
 
 ### Guard 2 - [Closed Guard Arm-In Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-in-guillotine.md)
 
@@ -129,22 +129,6 @@ This class consists of several progressive drills that build upon each other. Ea
 **Position:** On your side with your partner having seatbelt control from behind  
 **Objective:** Break the chest-to-back connection and escape the control  
 **Win:** Successfully break chest-to-back connection and escape the control  
-
-### Pinning 2 - [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
-
-**Overview:** A submission control drill where the top player starts in an armbar position and works to control, isolate, and straighten the arm, while the bottom player attempts to escape without being submitted.
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
-
-#### Top Player
-**Position:** On your back or side with one leg over partner's torso, one leg over their head, and hands connected to partner's arm at the elbow  
-**Objective:** Maintain tight connection with partner's shoulders while splitting their hands apart to isolate and straighten the arm  
-**Win:** Successfully split the hands apart, straighten the arm, and maintain control for 3 seconds before applying breaking pressure  
-
-#### Bottom Player
-**Position:** On your back in an armbar position with hands connected in your preferred defensive grip  
-**Objective:** Escape from the armbar position using any available technique without being submitted  
-**Win:** Successfully escape the armbar position without getting submitted  
 
 ## Conclusion
 
