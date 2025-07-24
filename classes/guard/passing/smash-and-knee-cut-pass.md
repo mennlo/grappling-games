@@ -126,5 +126,5 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Protect your hands from being controlled while not attempting to escape the position  
 **Win:** Prevent your partner from controlling your hands for the entire round
 
-### Conclusion
+## Conclusion
 Finish class with Q&A or live rolls starting from a stack pass position.
