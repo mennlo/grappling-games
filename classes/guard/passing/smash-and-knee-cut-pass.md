@@ -28,9 +28,11 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Time:** 2 minutes, 2 partners or 4 minutes total - switching back and forth
 
-**Position:** Both partners are standing face to face  
-**Objective:** Establish and maintain control with underhook and russian tie grip  
-**Win:** Maintain control for a prolonged period or transition to more dominant control  
+### Controller
+**Position:** Standing, facing your partner  
+**Objective:** Cover your partner's hands and fight for an underhook or a Russian tie, then maintain this control position  
+**Win:** Maintain the control position or successfully pick up a single leg  
+
 
 ### 1.2 - [Single Leg Control with Multiple Finishes](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
 
@@ -38,13 +40,35 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Time:** 2 minutes, 2 partners or 4 minutes total - switching back and forth
 
+### Attacking Player
 **Position:** One of your partner's legs is held with your hands and arms between your legs, head on chest  
-**Objective:** Stay connected to the single leg and move your partner around, attempting to finish with one of three options  
+**Objective:** Stay connected to the single leg and move your partner around. Move the leg to different parts of your body, and attempt to finish with one of three options  
 **Win:** Achieve any of the three win conditions: touch opponent's hands to the mat, connect hands around torso, or put opponent on their butt (each for 3 seconds)  
+
+### Defending Player
+**Position:** Your partner has a single leg grip, and you are balanced on one foot  
+**Objective:** Stay balanced and remove your leg from the situation by any means  
+**Win:** Successfully free your leg from the single leg control  
 
 ## Guard Passing Drills
 
-### 2.1 - [Smash Pass or Knee Slice Position Entry and Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-or-knee-slice-entry-and-control.md)
+### 2.1 - [Smash Pass Elevated Hips Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-elevated-hips-drill.md)
+
+**Overview:** A guard passing drill where the top player starts with a smash pass position and must pass to chest-to-chest control only when the bottom player's hips are elevated.
+
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+
+### Top Player
+**Position:** On knees with one of bottom player's legs on your shoulder and the other leg pinned  
+**Objective:** Pass guard to achieve chest-to-chest control, but only when bottom player's hips are elevated off the mat  
+**Win:** Successfully achieve chest-to-chest control after passing while bottom player's hips are elevated  
+
+### Bottom Player
+**Position:** Lying on your back with one leg on top player's shoulder and other leg pinned  
+**Objective:** Recover guard, transition to turtle position, or put top player in triangle position  
+**Win:** Successfully recover guard, establish turtle position, or achieve triangle control  
+
+### 2.2 - [Smash Pass or Knee Slice Position Entry and Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-or-knee-slice-entry-and-control.md)
 
 **Overview:** A drill focusing on establishing the knee slice position from standing against a supine opponent, with emphasis on pinning the thigh with the shin and controlling the upper body.
 
