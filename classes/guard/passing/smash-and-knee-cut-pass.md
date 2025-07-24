@@ -10,15 +10,15 @@ This class consists of several progressive drills that build upon each other. Ea
 3. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 4. [Smash Pass Elevated Hips Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-elevated-hips-drill.md)
 5. [Smash Pass or Knee Slice Position Entry and Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-or-knee-slice-entry-and-control.md)
-6. [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
-7. [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
+6. [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
+7. [Hand Cover Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
 
-**Total Drilling Time:** 38 minutes
+**Total Drilling Time:** 36 minutes
 - Standing Drills: 8 minutes (2 drills × 4 minutes each with partner switching)
 - Guard Passing Drills: 18 minutes (3 drills × 6 minutes each with partner switching)
-- Pinning Drills: 12 minutes (2 drills × 6 minutes each with partner switching)
-
-The remaining time can be used for instruction, demonstrations, transitions between drills, and potentially a short round of situational rolling.
+- Pinning Drills: 10 minutes
+  - Seatbelt Back Control: 6 minutes (3 minutes × 2 partners)
+  - Hand Cover Back Control: 4 minutes (2 minutes × 2 partners)
 
 ## Standing Drills
 
@@ -94,23 +94,7 @@ The remaining time can be used for instruction, demonstrations, transitions betw
 
 ## Pinning Drills
 
-### 3.1 - [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
-
-**Overview:** A back control drill focused on transitioning to and maintaining back control position from various starting positions and defending against common escapes.
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
-
-### Back Controller
-**Position:** Starting from side control or behind your partner without established back control  
-**Objective:** Transition to back control and establish dominant positioning with hooks or body triangle  
-**Win:** Establish back control with both hooks in or body triangle for 3 seconds  
-
-### Defending Player
-**Position:** Starting in bottom side control or with your back partially exposed  
-**Objective:** Prevent your partner from establishing back control and work to improve your position  
-**Win:** Prevent back control establishment or escape if back control is achieved  
-
-### 3.2 - [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
+### 3.1 - [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
 
 **Overview:** A back control drill focused on establishing hooks from the back position while maintaining chest-to-back connection.
 
@@ -124,5 +108,23 @@ The remaining time can be used for instruction, demonstrations, transitions betw
 ### Defending Player
 **Position:** On your side with your partner having seatbelt control from behind  
 **Objective:** Break the chest-to-back connection and escape the control  
-**Win:** Successfully break chest-to-back connection and escape the control
+**Win:** Successfully break chest-to-back connection and escape the control  
 
+### 3.2 - [Hand Cover Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
+
+**Overview:** A back control drill focused on covering and controlling your partner's hands from chest-to-back position.
+
+**Time:** 2 minutes, 2 partners or 6 minutes total - switching back and forth
+
+### Back Controller
+**Position:** Chest-to-back position with your partner  
+**Objective:** Work to cover and control your partner's hands  
+**Win:** Successfully cover and control both of your partner's hands  
+
+### Defending Player
+**Position:** With your back to your partner in chest-to-back position  
+**Objective:** Protect your hands from being controlled while not attempting to escape the position  
+**Win:** Prevent your partner from controlling your hands for the entire round
+
+### Conclusion
+Finish class with Q&A or live rolls starting from a stack pass position.
