@@ -66,19 +66,19 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### Guard 1 - [Closed Guard Base Disruption](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
 
-**Overview:** A closed guard drill focusing on the bottom player disrupting the top player's base by forcing them to touch the mat three times or getting an overhook and on your side.
+**Overview:** A closed guard drill focusing on the bottom player disrupting the top player's base and establishing control positions, while the top player works to counter with guard passing and posture control.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Bottom Player
 **Position:** On your back with closed guard around your partner's waist  
-**Objective:** Disrupt your partner's base and force them to touch the mat with their hands or knees three times get an overhook and on your side  
-**Win:** Successfully force your partner to touch the mat three times or get an overhook and on your side
+**Objective:** Disrupt your partner's base and force them to touch the mat with their hands or knees three times, or establish an overhook and get on your side  
+**Win:** Successfully force your partner to touch the mat three times OR get an overhook and turn onto your side
 
 #### Top Player
 **Position:** Kneeling inside your partner's closed guard  
-**Objective:** Maintain your base and posture without allowing your hands or knees to touch the mat  
-**Win:** Successfully maintain your base without touching the mat three times or allowing your partner to get an overhook
+**Objective:** Maintain your base and posture while working to open the guard or establish guard passing position  
+**Win:** Successfully open the closed guard and establish a guard passing position, or maintain base without touching the mat three times
 
 ### Guard 2 - [Closed Guard Arm-In Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-in-guillotine.md)
 
