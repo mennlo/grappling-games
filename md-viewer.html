@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grappling Game Viewer</title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/feedback.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
@@ -25,12 +26,41 @@
             <h2 id="file-title">Loading...</h2>
             <div id="markdown-content"></div>
         </div>
+        
+        <div id="feedback-section" class="feedback-section">
+            <h3>Provide Feedback</h3>
+            <button id="show-feedback-form" class="feedback-button">Leave Feedback</button>
+            <div id="feedback-form-container" style="display: none;">
+                <form id="feedback-form">
+                    <div class="form-group">
+                        <label for="feedback-type">Type of Feedback:</label>
+                        <select id="feedback-type" required>
+                            <option value="">Select an option</option>
+                            <option value="suggestion">Suggestion</option>
+                            <option value="improvement">Improvement</option>
+                            <option value="correction">Correction</option>
+                            <option value="question">Question</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="feedback-text">Your Feedback:</label>
+                        <textarea id="feedback-text" rows="4" required></textarea>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="submit-button">Submit Feedback</button>
+                        <button type="button" id="cancel-feedback" class="cancel-button">Cancel</button>
+                    </div>
+                </form>
+                <div id="feedback-message" style="display: none;"></div>
+            </div>
+        </div>
     </main>
 
     <footer>
         <div class="container">
             <p>Last updated: June 19, 2025</p>
             <p><a href="https://github.com/mennlo/grappling-games">View on GitHub <i class="fab fa-github"></i></a></p>
+            <p><a href="https://github.com/mennlo/grappling-games/issues/new?title=Feedback%20on%20" id="feedback-link" target="_blank">Provide Feedback <i class="fas fa-comment"></i></a></p>
         </div>
     </footer>
 
@@ -52,6 +82,10 @@
             const contentType = isClass ? 'Class' : 'Game';
             document.getElementById('file-title').textContent = `${formatName(fileName)} ${contentType}`;
             document.title = `${formatName(fileName)} - Grappling Games`;
+            
+            // Update the feedback link with the current file
+            const feedbackLink = document.getElementById('feedback-link');
+            feedbackLink.href = `https://github.com/mennlo/grappling-games/issues/new?title=Feedback%20on%20${formatName(fileName)}&body=Feedback%20for:%20${filePath}%0A%0AYour%20feedback:%20`;
             
             // Fetch the markdown content from GitHub
             const baseRepoUrl = 'https://api.github.com/repos/mennlo/grappling-games/contents/';
@@ -81,6 +115,64 @@
                     .split(' ')
                     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
                     .join(' ');
+            }
+            
+            // Handle feedback form
+            const showFeedbackFormButton = document.getElementById('show-feedback-form');
+            const feedbackFormContainer = document.getElementById('feedback-form-container');
+            const feedbackForm = document.getElementById('feedback-form');
+            const cancelFeedbackButton = document.getElementById('cancel-feedback');
+            const feedbackMessage = document.getElementById('feedback-message');
+            
+            showFeedbackFormButton.addEventListener('click', function() {
+                feedbackFormContainer.style.display = 'block';
+                showFeedbackFormButton.style.display = 'none';
+            });
+            
+            cancelFeedbackButton.addEventListener('click', function() {
+                feedbackFormContainer.style.display = 'none';
+                showFeedbackFormButton.style.display = 'block';
+                feedbackForm.reset();
+            });
+            
+            feedbackForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const feedbackType = document.getElementById('feedback-type').value;
+                const feedbackText = document.getElementById('feedback-text').value;
+                
+                // Create a GitHub issue via the API
+                createGitHubIssue(fileName, filePath, feedbackType, feedbackText);
+            });
+            
+            function createGitHubIssue(fileName, filePath, feedbackType, feedbackText) {
+                // Normally, you would use the GitHub API here, but that requires authentication
+                // For simplicity, we'll redirect to the new issue page with pre-filled information
+                const issueTitle = `Feedback [${feedbackType}]: ${formatName(fileName)}`;
+                const issueBody = `Feedback for: ${filePath}\n\nType: ${feedbackType}\n\n${feedbackText}`;
+                
+                const encodedTitle = encodeURIComponent(issueTitle);
+                const encodedBody = encodeURIComponent(issueBody);
+                
+                const issueUrl = `https://github.com/mennlo/grappling-games/issues/new?title=${encodedTitle}&body=${encodedBody}`;
+                
+                // Show success message
+                feedbackForm.style.display = 'none';
+                feedbackMessage.innerHTML = `
+                    <p>Thank you for your feedback!</p>
+                    <p>Please complete your submission on GitHub:</p>
+                    <a href="${issueUrl}" target="_blank" class="submit-button">Continue to GitHub</a>
+                    <button type="button" id="close-feedback" class="cancel-button">Close</button>
+                `;
+                feedbackMessage.style.display = 'block';
+                
+                document.getElementById('close-feedback').addEventListener('click', function() {
+                    feedbackFormContainer.style.display = 'none';
+                    showFeedbackFormButton.style.display = 'block';
+                    feedbackForm.reset();
+                    feedbackForm.style.display = 'block';
+                    feedbackMessage.style.display = 'none';
+                });
             }
         });
     </script>
