@@ -13,8 +13,7 @@ A drill focusing on maintaining top control while keeping the bottom player's ar
 
 ### Bottom Player
 **Position:** On back with partner mounted on top, arms isolated with elbows away from ribs  
-**Objective:** Get both elbows back to ribs while working to improve position  
-**Win:** Successfully return both elbows to the ribs or establish guard  
+**Win:** Successfully get both hands on the hips with no arms under the elbows or get to guard
 
 ## Instructions
 1. Partners start with the top player in mount position with arms under both of the bottom player's elbows
