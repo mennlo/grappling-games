@@ -78,17 +78,17 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### 2.1 - [Side Control Framing and Pinning](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-pinning.md)
 
-**Overview:** A pinning drill where the bottom player works to maintain frames at the hip and neck to prevent control, while the top player attempts to establish dominant crossface and underhook control.
+**Overview:** A pinning drill where the bottom player works to maintain frames at the hip and neck to prevent control, while the top player attempts to establish a closed loop around their head and arm.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 ### Top Player
 **Position:** On top, in front of your partner's legs  
-**Objective:** Stay on top, keep the bottom player pinned, and establish a crossface with underhook control  
-**Win:** Successfully maintain the pin and establish a crossface with underhook control  
+**Objective:** Stay on top, pin the bottom player, get their frames off of you and establish a closed loop around their head and arm 
+**Win:** Successfully maintain the pin and establish a closed loop around their head and arm 
 
 ### Bottom Player
-**Position:** On your back, framing at the hip and neck  
+**Position:** On your side, framing at the shoulder and neck  
 **Objective:** Prevent the top player from establishing a crossface and underhook control  
 **Win:** Get your legs back in between you and your partner or successfully get on top  
 
@@ -105,8 +105,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### Bottom Player
 **Position:** On back with partner mounted on top, arms isolated with elbows away from ribs  
-**Objective:** Get both elbows back to ribs while working to improve position  
-**Win:** Successfully return both elbows to the ribs or establish guard  
+**Win:** Successfully get both hands on the hips with no arms under the elbows or get to guard
 
 ### 2.3 - [Mount Wrist Control to Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-arm-triangle.md)
 
@@ -117,12 +116,12 @@ This class consists of several progressive drills that build upon each other. Ea
 ### Top Player
 **Position:** Mounted on top with bottom player's wrist pinned to the mat  
 **Objective:** Maintain mount position while transitioning into an arm triangle choke  
-**Win:** Successfully establish the arm triangle position while maintaining mount  
+**Win:** Successfully establish the arm triangle position while maintaining mount, don't need to finish
 
 ### Bottom Player
 **Position:** On back in mount position with one wrist pinned to the mat  
 **Objective:** Defend against the arm triangle setup and work to recover guard or reverse position  
-**Win:** Successfully recover guard or reverse the position  
+**Win:** Successfully recover guard or reverse the position. For big skill differences use the hands to the hips with no arms under win
 
 ### 2.4 - [Side Control to Mounted Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
 

@@ -9,12 +9,12 @@ A positional drill where the top player starts with the bottom player's wrist pi
 ### Top Player
 **Position:** Mounted on top with bottom player's wrist pinned to the mat  
 **Objective:** Maintain mount position while transitioning into an arm triangle choke  
-**Win:** Successfully establish the arm triangle position while maintaining mount  
+**Win:** Successfully establish the arm triangle position while maintaining mount, don't need to finish
 
 ### Bottom Player
 **Position:** On back in mount position with one wrist pinned to the mat  
 **Objective:** Defend against the arm triangle setup and work to recover guard or reverse position  
-**Win:** Successfully recover guard or reverse the position  
+**Win:** Successfully recover guard or reverse the position. For big skill differences use the hands to the hips with no arms under win
 
 ## Instructions
 1. Partners start with the top player in mount position
