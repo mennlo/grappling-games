@@ -1,4 +1,4 @@
-# Mounted Arm7. [Side Control to Mounted Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)Triangle Class
+# Mounted Arm Triangle Class
 **Class Length:** 1 hour
 
 This class focuses on developing effective attacks from the mount position with an emphasis on arm triangle submissions. The class starts with standing hand-fighting drills to develop grip-fighting skills, then progresses through positional control and various submission options from the mount.
