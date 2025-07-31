@@ -15,14 +15,14 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Total Drilling Time:** 37 minutes
 - Standing Drills: 15 minutes
-  - Zombie Mode: 3 minutes (3 × 1-minute rounds)
-  - Zombie Mode Underhook and Single Leg Counter: 6 minutes (2 × 3-minute rounds)
-  - Locked Hands Control Battle: 6 minutes (2 × 3-minute rounds)
+  - Zombie Mode: 3 minutes (3 x 1-minute rounds)
+  - Zombie Mode Underhook and Single Leg Counter: 6 minutes (2 x 3-minute rounds)
+  - Locked Hands Control Battle: 6 minutes (2 x 3-minute rounds)
 - Ground Drills: 22 minutes
-  - Side Control Framing and Pinning: 6 minutes (2 × 3-minute rounds)
-  - Mount Control and Isolation: 4 minutes (2 × 2-minute rounds)
-  - Mount Wrist Control to Arm Triangle: 6 minutes (2 × 3-minute rounds)
-  - Side Control to Mounted Arm Triangle: 6 minutes (2 × 3-minute rounds)
+  - Side Control Framing and Pinning: 6 minutes (2 x 3-minute rounds)
+  - Mount Control and Isolation: 4 minutes (2 x 2-minute rounds)
+  - Mount Wrist Control to Arm Triangle: 6 minutes (2 x 3-minute rounds)
+  - Side Control to Mounted Arm Triangle: 6 minutes (2 x 3-minute rounds)
 
 ## Standing Drills
 

@@ -13,12 +13,12 @@ This class consists of several progressive drills that build upon each other. Ea
 6. [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
 7. [Hand Cover Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
 
-**Total Drilling Time:** 36 minutes
-- Standing Drills: 8 minutes (2 drills × 4 minutes each with partner switching)
-- Guard Passing Drills: 18 minutes (3 drills × 6 minutes each with partner switching)
-- Pinning Drills: 10 minutes
-  - Seatbelt Back Control: 6 minutes (3 minutes × 2 partners)
-  - Hand Cover Back Control: 4 minutes (2 minutes × 2 partners)
+**Total Drilling Time:** 26 minutes
+- Standing Drills: 8 minutes (2 drills x 4 minutes each with partner switching)
+- Guard Passing Drills: 18 minutes (3 drills x 6 minutes each with partner switching)
+- Back Control: 10 minutes
+  - Seatbelt Back Control: 6 minutes (3 minutes x 2 partners)
+  - Hand Cover Back Control: 4 minutes (2 minutes x 2 partners)
 
 ## Standing Drills
 
