@@ -83,7 +83,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 #### Bottom Player
 **Position:** On your back with closed guard around your partner's waist  
-**Objective:** Work to establish a kimura grip or guillotine grip with hands connected 
+**Objective:** Work to establish a kimura grip or guillotine grip with hands connected  
 **Win:** Successfully lock up a kimura grip or guillotine grip with hands connected
 
 #### Top Player
