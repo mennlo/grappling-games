@@ -48,14 +48,14 @@ This class consists of several progressive drills that build upon each other. Ea
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Controlling Player
-**Position:** Kneeling or standing over your partner who is on hands/elbows and knees, with a chin strap and tricep grip  
-**Objective:** Maintain head control while transitioning from head and arm control on one side to head and arm on the other side  
-**Win:** Successfully transition from side to side while keeping your partner's head covered  
+**Position:** Kneeling over your partner who is on hands/elbows and knees, with a chin strap and tricep grip  
+**Objective:** Maintain head control while transitioning from head and arm control on one side to head and arm on the other side, try to keep their hands on the mat  
+**Win:** No win
 
 #### Defending Player
 **Position:** On hands/elbows and knees with your head trapped in your partner's front headlock control  
-**Objective:** Work to uncover your head and establish guard by getting your legs between you and your partner  
-**Win:** Uncover your head and successfully establish guard by getting your legs between you and your partner  
+**Objective:** Work to uncover your head and establish guard by getting your legs between you and your partner OR knock them down to their butt and free uncover your head from top position  
+**Win:** Uncover your head and successfully establish guard by getting your legs between you and your partner OR knock them down to their butt and free uncover your head from top position  
 
 ## Guard Drills
 
@@ -101,12 +101,12 @@ This class consists of several progressive drills that build upon each other. Ea
 
 #### Bottom Player
 **Position:** On your side, framing your partner's shoulder line  
-**Objective:** Prevent being flattened out and don't allow your partner to establish a connection around your head / head and neck
+**Objective:** Prevent being flattened out and don't allow your partner to establish a connection around your head / head and neck  
 **Win:** Get your legs back in between you and your partner or successfully get on top  
 
 #### Top Player
 **Position:** On top, in front of your partner's legs, with them on their side  
-**Objective:** Stay on top, flatten your partner, and establish a connection around your partner's head / head and neck
+**Objective:** Stay on top, flatten your partner, and establish a connection around your partner's head / head and neck  
 **Win:** Successfully flatten your partner and establish a connection around your partner's head / head and neck 
 
 ### 3.2 - [Side Control Head and Arm Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
@@ -117,11 +117,11 @@ This class consists of several progressive drills that build upon each other. Ea
 
 #### Top Player
 **Position:** On top in side control with crossface control  
-**Objective:** Work to remove frames to establish a connection around your partner's head / head and neck
+**Objective:** Work to remove frames to establish a connection around your partner's head / head and neck  
 **Win:** Successfully establish head and arm connection or finish any head and arm submission  (if agreed with partner)
 
 #### Bottom Player
-**Position:** On back in bottom side control with a frame at the hip and neck
+**Position:** On back in bottom side control with a frame at the hip and neck  
 **Objective:** Use frames and movement to make space to recover guard or reverse the position  
 **Win:** Successfully recover any form of guard (past the knee line if you capture one leg) or reverse the position  
 
