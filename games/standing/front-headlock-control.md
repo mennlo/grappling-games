@@ -28,7 +28,6 @@ A standing drill focusing on maintaining the front headlock position while contr
 ## Coaching Points
 For controlling players:
 - Keep your chest heavy on your partner's head and upper back
-- Experiment with different hand positions (gable grip, figure-four, RNC grip) to find what works best
 - Use your hip position to maintain control and prevent your partner from standing up
 
 For defending players:
