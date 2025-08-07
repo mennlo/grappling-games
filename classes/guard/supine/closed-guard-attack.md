@@ -7,7 +7,7 @@ This class consists of several progressive drills that build upon each other. Ea
 2. [Rear Standing Bodylock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
 3. [Progressive Standing Control Cycle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-standing-control-cycle.md)
 4. [Closed Guard Base Disruption](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
-4. [Closed Guard Arm-In Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-in-guillotine.md)
+4. [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
 5. [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
 6. [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
 7. [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
@@ -80,7 +80,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Maintain your base and posture without allowing your hands or knees to touch the mat  
 **Win:** Successfully maintain your base without touching the mat three times or allowing your partner to get an overhook
 
-### Guard 2 - [Closed Guard Arm-In Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-in-guillotine.md)
+### Guard 2 - [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
 
 **Overview:** A closed guard drill where the bottom player starts with an arm-in guillotine position and works to finish the choke, while the top player focuses on escaping the head control and posturing up.
 
