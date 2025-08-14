@@ -148,6 +148,77 @@ The class file should match the format used in the individual game files:
 **Win:** [Win condition for both players]  
 ```
 
+## Class File Structure and Format
+
+Class files should follow a consistent structure based on the established pattern. Use the guillotine-defense-class.md as the reference format:
+
+### Class Header Format
+```markdown
+# [Class Name] Class
+**Class Length:** 1 hour
+
+[Brief description of class focus and learning objectives]
+
+This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
+
+1. [Game 1 Name](link)
+2. [Game 2 Name](link)
+3. [Game 3 Name](link)
+...
+
+**Total Drilling Time:** [X] minutes
+- [Section 1] Drills: [X] minutes
+  - [Game 1]: 6 minutes (2 x 3-minute rounds)
+  - [Game 2]: 6 minutes (2 x 3-minute rounds)
+- [Section 2] Drills: [X] minutes
+  - [Game 3]: 6 minutes (2 x 3-minute rounds)
+  - [Game 4]: 6 minutes (2 x 3-minute rounds)
+```
+
+### Drill Section Format
+Use numbered sections (1.1, 1.2, 2.1, 2.2, etc.) instead of descriptive names:
+
+```markdown
+## [Section Name] Drills
+
+### 1.1 - [Game Name](link)
+
+**Overview:** Brief description of the drill
+
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+
+#### [Role 1]
+**Position:** [Starting position description]  
+**Objective:** [What this player should try to accomplish]  
+**Win:** [Win condition for this player]
+
+#### [Role 2]  
+**Position:** [Starting position description]  
+**Objective:** [What this player should try to accomplish]  
+**Win:** [Win condition for this player]
+
+### 1.2 - [Next Game Name](link)
+[Continue same format...]
+```
+
+### Class Conclusion Format
+```markdown
+## Conclusion
+Finish class with Q&A and some live rolling starting from [relevant position]. Focus on applying the [relevant techniques] learned during class, as well as practicing the [relevant concepts] when opportunities arise.
+```
+
+### Time Allocation Guidelines
+- Each drill should be 6 minutes total (2 x 3-minute rounds with partners switching)
+- Total drilling time should typically be 30-36 minutes for a 1-hour class
+- Allow remaining time for instruction, Q&A, and live rolling
+
+### Class Consistency Guidelines
+1. **Numbering System:** Use decimal numbering (1.1, 1.2, 2.1, 2.2) for drills within sections
+2. **Section Names:** Use descriptive section names like "Standing Drills", "Guard Drills", "Pinning Drills"
+3. **Time Calculations:** Always show the breakdown of total drilling time by section
+4. **Overview Descriptions:** Keep game overviews concise but descriptive
+5. **Win Conditions:** Be specific about win conditions, including "No win condition" when appropriate
+
 ## Naming Conventions
 
 1. File names should use kebab-case (lowercase with hyphens between words)
