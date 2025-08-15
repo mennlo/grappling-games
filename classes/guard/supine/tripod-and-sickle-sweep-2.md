@@ -7,8 +7,8 @@ This class consists of several progressive drills that build upon each other. Ea
 
 1. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 2. [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
-3. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
-4. [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
+3. [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
+4. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 5. [Tripod Sickle Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
 6. [Tripod vs Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-vs-passing.md)
 
@@ -17,8 +17,8 @@ This class consists of several progressive drills that build upon each other. Ea
   - Progressive Touch to Bodylock: 6 minutes (2 x 3-minute rounds)
   - T-Position to Front Headlock: 6 minutes (2 x 3-minute rounds)
 - Guard Drills: 24 minutes
-  - HQ Position Passing Drill with Sweeps and Leg Pin: 6 minutes (2 x 3-minute rounds)
   - Guard Pull to Pass: 6 minutes (2 x 3-minute rounds)
+  - HQ Position Passing Drill with Sweeps and Leg Pin: 6 minutes (2 x 3-minute rounds)
   - Tripod Sickle Sweep: 6 minutes (2 x 3-minute rounds)
   - Tripod vs Passing: 6 minutes (2 x 3-minute rounds)
 
@@ -52,7 +52,23 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### 2.1 - [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
+### 2.1 - [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
+
+**Overview:** A guard pulling drill where one player starts with grips and pulls guard while the other player works to immediately remove the guard puller's feet and pass the guard without going to their knees.
+
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+
+#### Guard Puller
+**Position:** Standing with collar and sleeve grip on your partner  
+**Objective:** Pull guard and off-balance your partner to prevent them from passing your guard  
+**Win:** Successfully off-balance your partner (forcing them to both hands or butt), maintain guard, or stand up  
+
+#### Top Player
+**Position:** Standing, being gripped by your partner  
+**Objective:** Remove the guard puller's feet as quickly as possible after they hit the ground and pass the guard  
+**Win:** Successfully pass the guard and achieve chest to chest or chest to back contact  
+
+### 2.2 - [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 
 **Overview:** A drill focusing on establishing and controlling the Headquarters (HQ) passing position with one player starting disconnected and working to get between the bottom player's knees.
 
@@ -68,21 +84,8 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Keep your feet and hands between you and your partner. Make and maintain connections to the inside of your partner's knees using your hands and feet to prevent them from establishing HQ position  
 **Win:** Easy: Connect the tops of both your feet inside your partner's knees, Harder: sweep/come on top or just stand up
 
-### 2.2 - [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
 
-**Overview:** A guard pulling drill where one player starts with grips and pulls guard while the other player works to immediately remove the guard puller's feet and pass the guard without going to their knees.
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
-
-#### Guard Puller
-**Position:** Standing with collar and sleeve grip on your partner  
-**Objective:** Pull guard and off-balance your partner to prevent them from passing your guard  
-**Win:** Successfully off-balance your partner (forcing them to both hands or butt), maintain guard, or stand up  
-
-#### Top Player
-**Position:** Standing, being gripped by your partner  
-**Objective:** Remove the guard puller's feet as quickly as possible after they hit the ground and pass the guard  
-**Win:** Successfully pass the guard and achieve chest to chest or chest to back contact  
+### ** Explain Tripod and Sickle sweep simply **
 
 ### 2.3 - [Tripod Sickle Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
 
