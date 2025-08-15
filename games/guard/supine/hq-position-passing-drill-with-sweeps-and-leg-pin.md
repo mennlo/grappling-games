@@ -16,7 +16,7 @@ A drill focusing on the Headquarters (HQ) passing position with one player stand
 **Position:** Lying on your back with one leg inside one leg outside  
 **Objective:** Keep your feet and hands between you and your partner. Make and maintain connections to the inside of your partner's knees using your hands and feet  
 **Constraints:** 
-**Win:** Connect the tops of both your feet inside your partner's knees, sweep/come on top or just stand up
+**Win:** Easy: Connect the tops of both your feet inside your partner's knees, Harder: sweep/come on top or just stand up
 
 ## Instructions
 1. Top player starts standing between bottom player's knees in HQ position

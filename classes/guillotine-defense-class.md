@@ -37,9 +37,9 @@ This class consists of several progressive drills that build upon each other. Ea
 **Win:** Successfully transition to the front headlock, force your partner's hands to the mat, and maintain control  
 
 #### Defending Player
-**Position:** Standing in T-position with your partner having an underhook  
+**Position:** Standing in T-position with your partner having an underhook and you having an overhook  
 **Objective:** Fight back to inside control and prevent your partner from establishing the front headlock position  
-**Win:** Successfully disconnect from the front headlock or re-establish inside position control  
+**Win:** Successfully disconnect from the front headlock or re-establish inside position control, or connect to your own front headlock  
 
 ### 1.2 - [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
 
