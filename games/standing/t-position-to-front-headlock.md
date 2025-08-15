@@ -13,10 +13,10 @@ A standing drill focusing on establishing the front headlock position from a T-p
 **Win:** Successfully transition to the front headlock, force your partner's hands to the mat, and maintain control for 3 seconds  
 
 ### Defending Player
-**Position:** Standing in T-position with your partner having an underhook  
+**Position:** Standing in T-position with your partner having an underhook and you having an overhook
 **Objective:** Fight back to inside control and prevent your partner from establishing the front headlock position  
 **Constraints:**  
-**Win:** Successfully disconnect from the front headlock or re-establish inside position control  
+**Win:** Successfully disconnect from the front headlock or re-establish inside position control, or connect to your own front headlock 
 
 ## Instructions
 1. Partners start in a T-position with the attacking player having an underhook
