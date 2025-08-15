@@ -54,18 +54,18 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### 2.1 - [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 
-**Overview:** A drill focusing on the Headquarters (HQ) passing position with one player standing and splitting the bottom player's legs.
+**Overview:** A drill focusing on establishing and controlling the Headquarters (HQ) passing position with one player starting disconnected and working to get between the bottom player's knees.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Top Player
-**Position:** Standing and splitting your partner's knees  
-**Objective:** Maintain connections to the knee line and head over head in an effort to keep them pinned on their back, either outside both knees or splitting them. Use hands and movement to keep your partner's connections off of you, breaking grips and keeping feet off of you. Try to pin one of their knees to the mat  
-**Win:** Pin one of your partners knees to the mat
+**Position:** Standing disconnected from your partner  
+**Objective:** Establish HQ position by getting between your partner's knees, then maintain connections to the knee line and head over head to keep them pinned on their back. Use hands and movement to keep your partner's connections off of you, breaking grips and keeping feet off of you. Try to pin one of their thighs to the mat using your shins  
+**Win:** Pin one of your partner's thighs to the mat for 3 seconds using your shins
 
 #### Bottom Player
-**Position:** Lying on your back with one leg inside one leg outside  
-**Objective:** Keep your feet and hands between you and your partner. Make and maintain connections to the inside of your partner's knees using your hands and feet  
+**Position:** Lying on your back with knees open  
+**Objective:** Keep your feet and hands between you and your partner. Make and maintain connections to the inside of your partner's knees using your hands and feet to prevent them from establishing HQ position  
 **Win:** Easy: Connect the tops of both your feet inside your partner's knees, Harder: sweep/come on top or just stand up
 
 ### 2.2 - [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
