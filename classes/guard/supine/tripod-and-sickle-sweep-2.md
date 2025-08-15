@@ -66,7 +66,7 @@ This class consists of several progressive drills that build upon each other. Ea
 #### Bottom Player
 **Position:** Lying on your back with one leg inside one leg outside  
 **Objective:** Keep your feet and hands between you and your partner. Make and maintain connections to the inside of your partner's knees using your hands and feet  
-**Win:** Connect the tops of both your feet inside your partner's knees, sweep/come on top or just stand up  
+**Win:** Easy: Connect the tops of both your feet inside your partner's knees, Harder: sweep/come on top or just stand up
 
 ### 2.2 - [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
 

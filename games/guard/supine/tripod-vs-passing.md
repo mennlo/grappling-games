@@ -1,4 +1,4 @@
-# Guard Pass to Chest Contact
+# Tripod vs Passing
 
 ## Overview
 A guard passing drill where the bottom player starts with grips and works to prevent the top player from getting outside their legs, while the top player tries to achieve a full guard pass finishing chest to chest or chest to back.
