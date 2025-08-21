@@ -7,14 +7,14 @@ A back control drill focused on transitioning to and maintaining back control po
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
 
 ### Back Controller
-**Position:** Starting from side control or behind your partner without established back control  
+**Position:** Starting chest to back with your partner with a seatbelt grip or similar control
 **Objective:** Transition to back control and establish dominant positioning with hooks or body triangle  
 **Win:** Establish back control with both hooks in or body triangle for 3 seconds  
 
 ### Defending Player
-**Position:** Starting in bottom side control or with your back partially exposed  
-**Objective:** Prevent your partner from establishing back control and work to improve your position  
-**Win:** Prevent back control establishment or escape if back control is achieved  
+**Position:** Starting on your side with your partner's chest connected to your back
+**Objective:** Prevent your partner from establishing back control with hooks and work to improve your position  
+**Win:** Turn to face your partner or successfully escape back to a neutral position
 
 ## Instructions
 1. Back controller starts from side control or transitional position
