@@ -1,4 +1,4 @@
-# Mounted Arm Triangle Class
+# Mount Control and Attacks
 **Class Length:** 1 hour
 
 This class focuses on developing effective attacks from the mount position with an emphasis on arm triangle submissions. The class starts with standing hand-fighting drills to develop grip-fighting skills, then progresses through positional control and various submission options from the mount.
