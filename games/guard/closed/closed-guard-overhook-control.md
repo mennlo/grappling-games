@@ -8,8 +8,8 @@ A closed guard drill focusing on the bottom player maintaining an overhook contr
 
 ### Bottom Player
 **Position:** On your back with closed guard and an overhook on your partner's arm, with your hip out on the overhook side  
-**Objective:** Maintain the overhook control and either sweep your partner, set up a triangle, or transition to an underhook  
-**Win:** Successfully maintain the overhook control and complete a sweep, triangle setup, or transition to underhook
+**Objective:** Maintain the overhook control and either sweep your partner, set up a triangle, or omoplata setup  
+**Win:** Successfully maintain the overhook control and complete a sweep, triangle setup, or omoplata setup
 
 ### Top Player
 **Position:** Kneeling inside your partner's closed guard with one arm caught in their overhook  
