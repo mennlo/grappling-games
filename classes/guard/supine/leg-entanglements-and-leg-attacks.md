@@ -8,22 +8,20 @@ This class focuses on developing leg entanglement skills and leg attack techniqu
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
 1. [Seated Guard Leg Connection Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-leg-connection-control.md)
-2. [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
-3. [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
-4. [Imbalanced Inside Position Shootout with Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
-5. [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
-6. [Ashi Garami Leg Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
+2. [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
+3. [Imbalanced Inside Position Shootout with Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
+4. [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
+5. [Ashi Garami Leg Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
 
-**Total Drilling Time:** 36 minutes
-- Leg Connection and Control Drills: 12 minutes
+**Total Drilling Time:** 30 minutes
+- Leg Connection and Control Drills: 6 minutes
   - Seated Guard Leg Connection Control: 6 minutes (2 x 3-minute rounds)
-  - Single Leg Control and Defense with Bodylock: 6 minutes (2 x 3-minute rounds)
 - Leg Entanglement Development: 12 minutes
   - Inside Position Shootout: 6 minutes (2 x 3-minute rounds)
   - Imbalanced Inside Position Shootout with Standing: 6 minutes (2 x 3-minute rounds)
 - Leg Attack Specific Drills: 12 minutes
   - Kneebar and Toehold Catch: 6 minutes (2 x 3-minute rounds)
-  - Ashi Garami Leg Attack: 6 minutes (2 x 3-minute rounds)
+  - Ashi Garami Leg Attack: 9 minutes (3 x 3-minute rounds)
 
 ## Leg Connection and Control Drills
 
@@ -42,22 +40,6 @@ This class consists of several progressive drills that build upon each other. Ea
 **Position:** Standing with one leg connected/controlled by the seated attacker  
 **Objective:** Flatten the attacker onto their back and keep them flat for 3 seconds  
 **Win:** Successfully flatten the attacker and maintain them on their back for 3+ seconds
-
-### 1.2 - [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
-
-**Overview:** A standing drill focusing on single leg control progression to bodylock while the defending player works to prevent the takedown and potentially counter with their own attacks.
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
-
-#### Attacking Player
-**Position:** Standing with a single leg control on your partner  
-**Objective:** Advance to a bodylock position and complete a takedown  
-**Win:** Successfully transition to bodylock and complete takedown or trip
-
-#### Defending Player
-**Position:** Standing with your leg controlled by your partner  
-**Objective:** Defend the single leg and prevent progression to bodylock, potentially counter-attack  
-**Win:** Successfully defend the single leg and counter with your own takedown attempt
 
 ## Leg Entanglement Development
 
@@ -91,7 +73,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Toehold:** Connect one hand around the toes and the other hand wrapped behind the ankle and connecting to the other wrist. Focus on achieving this grip position without applying finishing pressure or cranking the ankle.
 
-**Important:** These drills are about achieving proper catch positions - NOT finishing submissions. Demonstrate control, then reset. Attackers focus on maintaining a tight connection above the knee line close to the hip. Defenders focus on separating the knees, and pushing on the attacker to escape the entanglement and free their knee line.
+**Important:** These drills are about achieving proper catch positions - NOT finishing submissions. Demonstrate control, then reset. Attackers focus on maintaining a tight connection above the knee line close to the hip. Defenders focus on separating the knees, and pushing on the attacker to escape the entanglement and free their knee line. **During any time drilling, if the defender is feeling unsafe or is unsure about the safety of the position, they should tap out and both players reset.**
 
 ### 3.1 - [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
 
@@ -111,9 +93,11 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### 3.2 - [Ashi Garami Leg Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
 
+**Example:** Show how to switch between ashi garami to outside ashi garami to sit up into different leg entanglements, with potential for knee bars / toe holds. 
+
 **Overview:** A leg attack drill where the attacking player starts on their back in ashi garami position with one leg entangled, working to maintain control and transition to leg attacks, while the defending player works to escape the leg entanglement and free their knee line.
 
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+**Time:** 3 minutes, 3 partners or 9 minutes total - switching back and forth
 
 #### Attacking Player
 **Position:** On your back with one leg entangled in ashi garami position, arm over their leg, but not wrapping the ankle yet  
