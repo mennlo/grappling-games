@@ -13,13 +13,13 @@ This class consists of several progressive drills that build upon each other. Ea
 4. [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
 5. [Ashi Garami Leg Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
 
-**Total Drilling Time:** 30 minutes
+**Total Drilling Time:** 33 minutes
 - Leg Connection and Control Drills: 6 minutes
   - Seated Guard Leg Connection Control: 6 minutes (2 x 3-minute rounds)
 - Leg Entanglement Development: 12 minutes
   - Inside Position Shootout: 6 minutes (2 x 3-minute rounds)
   - Imbalanced Inside Position Shootout with Standing: 6 minutes (2 x 3-minute rounds)
-- Leg Attack Specific Drills: 12 minutes
+- Leg Attack Specific Drills: 15 minutes
   - Kneebar and Toehold Catch: 6 minutes (2 x 3-minute rounds)
   - Ashi Garami Leg Attack: 9 minutes (3 x 3-minute rounds)
 
