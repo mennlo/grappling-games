@@ -6,7 +6,7 @@ This class develops the pathways into side control from standing, builds retenti
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
 1. [Underhook Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
-2. [T-Position to Bodylock Lift](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-bodylock-lift.md)
+2. [T-Position Takedown Pathways](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 3. [Side Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
 4. [Side Control Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
 5. [Side Control to Mount Stabilization](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-transition.md)
@@ -15,7 +15,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Total Drilling Time:** 36 minutes
 - Standing Entries: 12 minutes  
 	- Underhook Russian Tie Control: 6 minutes (2 x 3-minute rounds)  
-	- T-Position to Bodylock Lift: 6 minutes (2 x 3-minute rounds)  
+	- T-Position Takedown Pathways: 6 minutes (2 x 3-minute rounds)  
 - Pinning & Control: 24 minutes  
 	- Side Framing and Flattening: 6 minutes (2 x 3-minute rounds)  
 	- Side Control Underhook Battle: 6 minutes (2 x 3-minute rounds)  
@@ -36,20 +36,20 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Win:** Maintain the control position or successfully pick up a single leg from either control position 
 
 
-### 1.2 - [T-Position to Bodylock Lift](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-bodylock-lift.md)
+### 1.2 - [T-Position Takedown Pathways](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 
-**Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to either connect their hands around the defender's lower body and lift, or achieve tight hip-to-hip connection and lift the defender off the ground. The defender works to deny body connection and choose one of three tactical branches.
+**Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to secure a bodylock (front or back), pick up a single leg, pick up a double leg, or achieve tight hip-to-hip connection and lift the defender off the ground. The defender works to deny body connection and choose one of three tactical branches.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Attacking Player
 **Position:** Standing in T-position with an underhook on your partner  
-**Objective:** Progress from underhook T-position to either (1) connected hand bodylock lift or (2) tight hip-to-hip elevation or (3) pickup a single leg
-**Win:** (a) Connect both hands around any part of the defender's lower body (hips/waist/upper thighs) and pick them up so at least one foot leaves the mat, OR (b) achieve hip-to-hip connection and lift opponent so both their feet briefly leave the mat
+**Objective:** Progress from underhook T-position to either (1) bodylock (front or back), (2) double leg pickup, (3) single leg pickup, or (4) tight hip-to-hip elevation
+**Win:** (a) Secure a bodylock (front or back), OR (b) successfully pick up a double leg, OR (c) successfully pick up a single leg, OR (d) drive the back of your hips into the front of defender's hips and lift opponent so both their feet briefly leave the mat
 
 #### Defending Player
 **Position:** Standing in T-position with overhook and partial torso control defense  
-**Objective:** Prevent bodylock or hip-to-hip elevation while pursuing: (1) double inside control, (2) complete separation, or (3) front headlock redirection  
+**Objective:** Prevent bodylock, single leg, double leg, or hip-to-hip elevation while pursuing: (1) double inside control, (2) complete separation, or (3) front headlock redirection  
 **Win:** (a) Establish double inside control (clear attacker underhook; both arms inside), OR (b) achieve complete separation (no chest/hip contact and attacker loses underhook), OR (c) secure front headlock before attacker lifts
 
 ## Pinning Drills
