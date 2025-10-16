@@ -44,7 +44,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 #### Attacking Player
 **Position:** Standing in T-position with an underhook on your partner  
-**Objective:** Progress from underhook T-position to either (1) bodylock (front or back), (2) double leg pickup, (3) single leg pickup, or (4) tight hip-to-hip elevation
+**Objective:** Progress from underhook T-position to either (1) bodylock (front or back), (2) double leg pickup, (3) single leg pickup, or (4) tight hip-to-hip elevation  
 **Win:** (a) Secure a bodylock (front or back), OR (b) successfully pick up a double leg, OR (c) successfully pick up a single leg, OR (d) drive the back of your hips into the front of defender's hips and lift opponent so both their feet briefly leave the mat
 
 #### Defending Player
