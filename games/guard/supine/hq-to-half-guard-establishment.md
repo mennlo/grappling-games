@@ -9,7 +9,7 @@ A drill focusing on transitioning from Headquarters (HQ) passing position to est
 ### Top Player
 **Position:** Standing disconnected from your partner  
 **Objective:** Establish HQ position by getting between your partner's knees, then transition to half guard position with hips covered  
-**Win:** Achieve half guard position with hips covered for 3 seconds
+**Win:** Achieve half guard position with hips covered and no knee shield for 3 seconds  
 
 ### Bottom Player
 **Position:** Lying on your back with knees open  
