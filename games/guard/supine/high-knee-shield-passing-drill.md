@@ -9,7 +9,7 @@ A drill where the bottom player maintains a high knee shield and the top player 
 ### Top Player
 **Position:** In half guard position facing a high knee shield from bottom player  
 **Objective:** Break down the knee shield defense and progress through weave pass (ideally) to complete the pass  
-**Win:** Successfully break down the knee shield and pass the guard to achieve chest-to-chest or chest-to-back control, ideally with a weave pass
+**Win:** Successfully break down the knee shield and pass the guard to achieve chest-to-chest or chest-to-back control, ideally with a weave pass (leg or regular)
 
 ### Bottom Player
 **Position:** On your back with high knee shield, knee pointing up and hip scooted towards opponent  

@@ -18,9 +18,9 @@ This class consists of progressive drills (games) that build upon each other. Ea
 - Guard Establishment: 6 minutes
   - HQ Position Passing Drill with Sweeps and Leg Pin: 6 minutes (2 x 3-minute rounds)
 - Weave Passing Drills: 24 minutes
+  - Leg Weave Smash Pass Position Drill: 6 minutes (2 x 3-minute rounds)
   - Shin Ride/HQ to Leg Weave Pass Progression: 6 minutes (2 x 3-minute rounds)
   - High Knee Shield Passing Drill: 6 minutes (2 x 3-minute rounds)
-  - Leg Weave Smash Pass Position Drill: 6 minutes (2 x 3-minute rounds)
   - Standing Guard Pass with Weave Commitment: 6 minutes (2 x 3-minute rounds)
 
 ## Standing Control Drills
@@ -61,7 +61,23 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Weave Passing Drills
 
-### 3.1 - [Shin Ride/HQ to Leg Weave Pass Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-ride-hq-to-leg-weave-progression.md)
+### 3.1 - [Leg Weave Smash Pass Position Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/leg-weave-smash-pass-position-drill.md)
+
+**Overview:** A drill starting from the leg weave smash pass position where the top player works to complete the pass while the bottom player defends and looks to square their hips back to guard.
+
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+
+#### Top Player
+**Position:** In leg weave smash pass position with opponent's legs pinned so knees point away from you  
+**Objective:** Complete the pass to side control or mount. Maintain weight on top leg of bottom partner and control the leg positioning  
+**Win:** Successfully achieve side control or mount  
+
+#### Bottom Player
+**Position:** On your back with legs pinned in leg weave smash pass position, knees pointing away from opponent  
+**Objective:** Square your hips up and get back to guard, or escape the position  
+**Win:** Successfully square hips and return to guard, get both feet on their hips, stand up, or complete a reversal  
+
+### 3.2 - [Shin Ride/HQ to Leg Weave Pass Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-ride-hq-to-leg-weave-progression.md)
 
 **Overview:** A drill starting from shin ride/HQ position where the top player works to establish leg weave pass position and complete the pass, while the bottom player defends and looks for guard retention or sweeps.
 
@@ -77,7 +93,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Maintain guard, prevent the progression to leg weave pass, or create sweep opportunities  
 **Win:** Recover guard and get both feet back to opponents hips, complete a sweep to come on top, or stand up  
 
-### 3.2 - [High Knee Shield Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/high-knee-shield-passing-drill.md)
+### 3.3 - [High Knee Shield Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/high-knee-shield-passing-drill.md)
 
 **Overview:** A drill where the bottom player maintains a high knee shield and the top player must break down that knee shield to progress through with the weave pass.
 
@@ -86,28 +102,12 @@ This class consists of progressive drills (games) that build upon each other. Ea
 #### Top Player
 **Position:** In half guard position facing a high knee shield from bottom player  
 **Objective:** Break down the knee shield defense and progress through weave pass (ideally) to complete the pass  
-**Win:** Successfully break down the knee shield and pass the guard to achieve chest-to-chest or chest-to-back control, ideally with a weave pass  
+**Win:** Successfully break down the knee shield and pass the guard to achieve chest-to-chest or chest-to-back control, ideally with a weave pass (leg or regular) 
 
 #### Bottom Player
 **Position:** On your back with high knee shield, knee pointing up and hip scooted towards opponent  
 **Objective:** Maintain your knee shield defense and prevent the pass. Keep your knee high and use proper defensive positioning  
 **Win:** Get both feet on opponents hips, achieve loop choke, or complete any reversal (sweep)  
-
-### 3.3 - [Leg Weave Smash Pass Position Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/leg-weave-smash-pass-position-drill.md)
-
-**Overview:** A drill starting from the leg weave smash pass position where the top player works to complete the pass while the bottom player defends and looks to square their hips back to guard.
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
-
-#### Top Player
-**Position:** In leg weave smash pass position with opponent's legs pinned so knees point away from you  
-**Objective:** Complete the pass to side control or mount. Maintain weight on top leg of bottom partner and control the leg positioning  
-**Win:** Successfully achieve side control or mount  
-
-#### Bottom Player
-**Position:** On your back with legs pinned in leg weave smash pass position, knees pointing away from opponent  
-**Objective:** Square your hips up and get back to guard, or escape the position  
-**Win:** Successfully square hips and return to guard, get both feet on their hips, stand up, or complete a reversal  
 
 ### 3.4 - [Standing Guard Pass with Weave Commitment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-guard-pass-weave-commitment.md)
 
