@@ -13,6 +13,5 @@ A drill where the bottom player maintains a high knee shield and the top player 
 
 ### Bottom Player
 **Position:** On your back with high knee shield, knee pointing up and hip scooted towards opponent  
-**Objective:** Maintain your knee shield defense and prevent the pass. Keep your knee high and use proper defensive positioning  
+**Objective:** Maintain your knee shield defense and prevent the pass.  
 **Win:** Get both feet on opponents hips, achieve loop choke, or complete any reversal (sweep)  
-

@@ -106,7 +106,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 #### Bottom Player
 **Position:** On your back with high knee shield, knee pointing up and hip scooted towards opponent  
-**Objective:** Maintain your knee shield defense and prevent the pass. Keep your knee high and use proper defensive positioning  
+**Objective:** Maintain your knee shield defense and prevent the pass.  
 **Win:** Get both feet on opponents hips, achieve loop choke, or complete any reversal (sweep)  
 
 ### 3.4 - [Standing Guard Pass with Weave Commitment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-guard-pass-weave-commitment.md)
