@@ -101,7 +101,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 #### Top Player
 **Position:** In half guard position facing a high knee shield from bottom player  
-**Objective:** Break down the knee shield defense and progress through weave pass (ideally) to complete the pass  
+**Objective:** Break down the knee shield defense and progress through weave pass to complete the pass  
 **Win:** Successfully break down the knee shield and pass the guard to achieve chest-to-chest or chest-to-back control, ideally with a weave pass (leg or regular) 
 
 #### Bottom Player
