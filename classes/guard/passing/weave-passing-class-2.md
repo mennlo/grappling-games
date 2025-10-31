@@ -106,7 +106,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 #### Bottom Player
 **Position:** On your back with top player in shin ride/HQ position  
 **Objective:** Maintain guard, prevent the progression to leg weave pass, or create sweep opportunities  
-**Win:** Recover guard and get both feet back to opponents hips, complete a sweep to come on top, or stand up  
+**Win:** Recover guard and get both feet on your opponent, complete a sweep to come on top, or stand up  
 
 ### 2.4 - [Standing Guard Pass with Weave Commitment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-guard-pass-weave-commitment.md)
 
@@ -115,7 +115,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Top Player
-**Position:** Standing over supine partner who has knees to chest  
+**Position:** Standing in front of supine partner who has knees to chest  
 **Objective:** Pass the guard, but you must first commit to either weave pass or leg weave pass position before completing the pass  
 **Win:** Successfully complete the pass to side control or mount after establishing either weave or leg weave position  
 
