@@ -75,7 +75,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 #### Bottom Player
 **Position:** On your back with legs pinned in leg weave smash pass position, knees pointing away from opponent  
 **Objective:** Square your hips up and get back to guard, or escape the position  
-**Win:** Successfully square hips and return to guard, get both feet on their hips, stand up, or complete a reversal  
+**Win:** Successfully square hips and return to guard, get both feet on opponent, stand up, or complete a reversal  
 
 ### 3.2 - [Shin Ride/HQ to Leg Weave Pass Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-ride-hq-to-leg-weave-progression.md)
 
@@ -91,7 +91,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 #### Bottom Player
 **Position:** On your back with top player in shin ride/HQ position  
 **Objective:** Maintain guard, prevent the progression to leg weave pass, or create sweep opportunities  
-**Win:** Recover guard and get both feet back to opponents hips, complete a sweep to come on top, or stand up  
+**Win:** Get both feet on opponent, complete a sweep to come on top, or stand up  
 
 ### 3.3 - [High Knee Shield Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/high-knee-shield-passing-drill.md)
 
@@ -107,7 +107,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 #### Bottom Player
 **Position:** On your back with high knee shield, knee pointing up and hip scooted towards opponent  
 **Objective:** Maintain your knee shield defense and prevent the pass.  
-**Win:** Get both feet on opponents hips, achieve loop choke, or complete any reversal (sweep)  
+**Win:** Get both feet on opponent, achieve loop choke, or complete any reversal (sweep)  
 
 ### 3.4 - [Standing Guard Pass with Weave Commitment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-guard-pass-weave-commitment.md)
 

@@ -14,4 +14,4 @@ A drill starting from shin ride/HQ position where the top player works to establ
 ### Bottom Player
 **Position:** On your back with top player in shin ride/HQ position  
 **Objective:** Maintain guard, prevent the progression to leg weave pass, or create sweep opportunities  
-**Win:** Recover guard and get both feet back to opponents hips, complete a sweep to come on top, or stand up  
+**Win:** Get both feet on opponent, complete a sweep to come on top, or stand up  
