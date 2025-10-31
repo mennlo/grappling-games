@@ -14,4 +14,4 @@ A drill starting from the leg weave smash pass position where the top player wor
 ### Bottom Player
 **Position:** On your back with legs pinned in leg weave smash pass position, knees pointing away from opponent  
 **Objective:** Square your hips up and get back to guard, or escape the position  
-**Win:** Successfully square hips and return to guard, get both feet on their hips, stand up, or complete a reversal  
+**Win:** Successfully square hips and return to guard, get both feet on opponent, stand up, or complete a reversal  
