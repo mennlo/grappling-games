@@ -67,7 +67,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 #### Bottom Player
 **Position:** Bottom of quarter guard with your partner having over-hook/under-hook, or head and arm control and chest to chest contact  
 **Objective:** Free yourself from underhooks  
-**Win:** Underhooks removed, both elbows to ribs with nothing under them  
+**Win:** Underhooks removed, both elbows to ribs with nothing under them, and top player does not free their trapped leg  
 
 ### 2.2 - [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
 
