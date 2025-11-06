@@ -1,7 +1,7 @@
 # Knee Cut Class 2
 **Class Length:** 1 hour
 
-This class develops knee cut passing fundamentals and related passing concepts, starting with standing control establishment, progressing through guard passing from various positions, and culminating with position advancement from side control to mount. The progression builds from standing wrestling control to specific knee cut and related passing mechanics.
+This class develops knee cut passing fundamentals and related passing concepts, starting with standing control establishment through progressive touch work and single leg control, progressing through quarter guard and various knee slice and leg weave passing positions, and culminating with knee shield half guard passing options. The progression builds from standing control to specific knee cut, leg weave, and related passing mechanics from both standing and established positions.
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
