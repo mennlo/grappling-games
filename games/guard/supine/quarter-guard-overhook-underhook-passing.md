@@ -14,7 +14,7 @@ A focused drill on passing the quarter guard from an overhook/underhook or head 
 ### Bottom Player
 **Position:** Bottom of quarter guard with your partner having over-hook/under-hook, or head and arm control and chest to chest contact  
 **Objective:** Free yourself from underhooks  
-**Win Condition:** Underhooks removed, both elbows to ribs with nothing under them
+**Win Condition:** Underhooks removed, both elbows to ribs with nothing under them, and prevent top player from freeing their trapped leg
 
 ## Instructions
 1. Top player starts in quarter guard with overhook/underhook or head and arm control
