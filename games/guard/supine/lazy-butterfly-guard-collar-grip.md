@@ -14,7 +14,7 @@ A drill where the bottom player starts in lazy butterfly guard (butterfly half g
 ### Top Player
 **Position:** On knees in front of bottom player who is in lazy butterfly guard  
 **Objective:** Get around the legs and achieve chest-to-chest control to pass the guard  
-**Constraints:** If you stand up and bottom player keeps connected with their feet, continue defending the sweep until bottom player disconnects from your legs
+**Constraints:** If you stand up and bottom player keeps connected with their feet, continue defending the sweep until bottom player disconnects from your legs  
 **Win:** Successfully get around both legs and establish chest-to-chest control  
 
 ## Instructions
