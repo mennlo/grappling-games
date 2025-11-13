@@ -120,7 +120,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 #### Top Player
 **Position:** On knees in front of bottom player who is in lazy butterfly guard  
 **Objective:** Get around the legs and achieve chest-to-chest control to pass the guard  
-**Constraints:** Must stay on your knees throughout the drill  
+**Constraints:** If you stand up and bottom player keeps connected with their feet, continue defending the sweep until bottom player disconnects from your legs  
 **Win:** Successfully get around both legs and establish chest-to-chest control  
 
 ## Conclusion
