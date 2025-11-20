@@ -1,4 +1,4 @@
-# Turtle Attacks Class
+# Turtle Class
 **Class Length:** 1 hour
 
 This class develops fundamental turtle attack concepts, starting with standing back control transitions to front headlock, progressing through grounded front headlock control and transitions, and culminating with turtle position attacks focusing on hip control, crucifix entry, clock choke setup, and back control transitions. The progression builds from standing control to grounded control, then specifically to turtle position dominance and back control development.
