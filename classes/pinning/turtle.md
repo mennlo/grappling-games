@@ -85,7 +85,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 #### Attacking Player
 **Position:** Behind your partner who is in turtle position  
-**Objective:** Establish crucifix control by trapping the near arm with your legs and controlling the far arm 
+**Objective:** Establish crucifix control by trapping the near arm with your legs and controlling the far arm  
 **Win:** Successfully trap the near arm with your legs while controlling the far arm  
 
 #### Defending Player
