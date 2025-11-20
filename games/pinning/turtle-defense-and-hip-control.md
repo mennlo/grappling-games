@@ -14,7 +14,7 @@ A turtle position drill where the defending player works to prevent hip control 
 ### Defending Player
 **Position:** In turtle position with your partner behind you  
 **Objective:** Prevent hip control and improve your position  
-**Win:** Successfully turn to guard or stand up while preventing hip control  
+**Win:** Successfully turn to guard, stand up, or sweep the top player over to become the top player
 
 ## Instructions
 1. Defending player starts in turtle position (hands and knees)
