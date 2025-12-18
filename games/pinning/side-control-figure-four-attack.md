@@ -8,8 +8,8 @@ A ground-based drill focusing on attacking with the figure four arm control from
 
 ### Top Player
 **Position:** In side control position over your partner  
-**Objective:** Establish a figure four control on your partner's arm and work toward submission if agreed upon  
-**Win:** Successfully establish figure four control or complete a submission if agreed upon  
+**Objective:** Establish a figure four control on your partner's arm and work toward submission (figure four shoulder lock, armbar, or other arm attacks)  
+**Win:** Successfully establish figure four control or complete a submission  
 
 ### Bottom Player
 **Position:** Pinned in bottom side control  
@@ -19,7 +19,7 @@ A ground-based drill focusing on attacking with the figure four arm control from
 ## Instructions
 1. Top player starts in established side control
 2. Top player works to isolate and control the bottom player's arm with a figure four
-3. If agreed upon, top player may progress to submission attempts
+3. Top player may progress to submission attempts (figure four shoulder lock, armbar, etc.)
 4. Bottom player works to prevent figure four control and recover guard
 5. Reset after a successful submission or guard recovery
 6. Switch roles after the time period
@@ -31,6 +31,8 @@ For the top player:
 - Use your head position to assist in controlling your partner's movement
 - Practice smooth transitions from control to submission
 - Maintain pressure throughout the transition to prevent escapes
+- For armbar: transition to mount or s-mount while maintaining arm control
+- For figure four shoulder lock: keep tight pressure and control the near arm
 
 For the bottom player:
 - Focus on protecting your arms by keeping them tight to your body
