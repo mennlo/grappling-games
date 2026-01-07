@@ -20,8 +20,8 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 **Starting Positions:**
 - Position 1: On your back with feet on the inside of top player's knees/thighs and hands on both ankles
-- Position 2: On your back with legs wrapped around one leg, feet crossed behind top player's butt, and hand grip on the ankle
-- Position 3: Seated with shin-on-shin guard established
+- Position 2: On your back in ashi garami
+- Position 3: On your back with a collar and sleeve grip, feet on the hips
 
 ## Instructions
 1. Both players start at Position 1
