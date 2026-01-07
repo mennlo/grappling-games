@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### 1.1 - [Head Position to Neck Trap vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-neck-trap-vs-underhook.md)
 
-**Overview:** A standing drill where partners compete for positional control—one working to connect their head to their partner's neck while the other establishes an underhook.
+**Overview:** A standing drill where partners compete for positional control, one working to connect their head to their partner's neck while the other establishes an underhook.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
@@ -64,19 +64,18 @@ This class consists of several progressive drills that build upon each other. Ea
 **Time:** 6 minutes, 2 partners or 12 minutes total - switching back and forth
 
 #### Top Player
-**Position:** Starting Position 1: Standing with bottom player's feet on the inside of your knees/thighs and hands on both your ankles  
 **Objective:** Touch your shin to your partner's belt on the outside of their legs  
+**Constraints:** Must stay standing throughout the attempt  
 **Win:** Successfully touch shin to belt
 
-**Starting Positions:**
-- Position 1: Bottom player on back with feet on the inside of top player's knees/thighs and hands on both ankles
-- Position 2: Bottom player on back in ashi garami
-- Position 3: Bottom player on back with a collar and sleeve grip, feet on the hips
-
 #### Bottom Player
-**Position:** Starting Position 1: On your back with feet on the inside of top player's knees/thighs and hands on both ankles  
 **Objective:** Get the top player down to their hips and stand up  
 **Win:** Top player on hips and you standing
+
+**Starting Positions:**
+- Position 1: On your back with feet on the inside of top player's knees/thighs and hands on both ankles
+- Position 2: On your back in ashi garami
+- Position 3: On your back with a collar and sleeve grip, feet on the hips
 
 ## Pinning Drills
 
