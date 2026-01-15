@@ -14,7 +14,7 @@ A closed guard drill focusing on the bottom player retaining closed guard and br
 ### Top Player
 **Position:** Kneeling inside your partner's closed guard  
 **Objective:** Open the closed guard and stuff a leg for headquarters position, or get both legs on one side of your body  
-**Win:** Successfully open the guard and establish headquarters position or get both legs to one side
+**Win:** Successfully open the guard and establish headquarters position, half guard or get both legs to one side
 
 ## Instructions
 1. Bottom player starts with closed guard, immediately working to break the top player's posture
