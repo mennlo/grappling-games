@@ -107,7 +107,7 @@ This class consists of several progressive drills that build upon each other. Ea
 #### Top Player
 **Position:** On your knees with your head and one arm caught in your partner's leg loop, head up, hips shelved on your partner's quads  
 **Objective:** Get both arms inside or outside the loop, or completely free your head and arm from the triangle position  
-**Win:** Successfully get both arms to the same side of the triangle or completely escape the position
+**Win:** Successfully get both arms to the inside/outside of the triangle or completely escape the position
 
 ### 3.2 - [Triangle and Omoplata Submission Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-and-omoplata-submission-attacks.md)
 
