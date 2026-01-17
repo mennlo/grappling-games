@@ -13,16 +13,15 @@ A dynamic drill where an attacker in seated guard maintains connection to a stan
 
 ### Defender
 **Position:** Standing with one leg connected/controlled by the seated attacker  
-**Objective:** Flatten the attacker onto their back and keep them flat for 3 seconds  
-**Win:** Successfully flatten the attacker and maintain them on their back for 3+ seconds
+**Objective:** Pass the guard by getting around the attacker or completely disconnect from the attacker  
+**Win:** Successfully pass the guard or achieve complete disconnection from the attacker
 
 ## Instructions
 1. Attacker starts in seated guard position with connection to defender's leg
-2. Defender works to control distance and flatten the attacker
+2. Defender works to pass guard or completely disconnect
 3. Attacker uses leg connection to off-balance and create takedown opportunities
-4. Both players reset if there is complete disconnection between them
-5. Reset after takedown completion or successful flattening
-6. Switch roles after the predetermined time
+4. Reset after takedown/sweep completion or successful guard pass/disconnection
+5. Switch roles after the predetermined time
 
 ## Coaching Points
 For attacker:
@@ -33,8 +32,9 @@ For attacker:
 - Keep your back off the mat - use your core to stay in seated position
 
 For defender:
+- Work to get around the attacker (pass guard) or create distance to disconnect
 - Control the distance to prevent easy leg entanglements
-- Use your free leg and hand placement to create downward pressure
-- Don't overcommit to flattening - maintain your balance
-- Look for opportunities to step back and break the connection
-- Keep your posture strong to avoid being pulled down
+- Use your free leg and hand placement to create angles for passing
+- Don't get drawn into the attacker's game - stay focused on your objectives
+- Look for opportunities to step back and break the connection cleanly
+- Keep your posture strong and mobile to avoid being pulled down

@@ -9,7 +9,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 1. [Seated Guard Leg Connection Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-leg-connection-control.md)
 2. [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
-3. [Imbalanced Inside Position Shootout with Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
+3. [Single Leg X to Hip Connection](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
 4. [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
 5. [Ashi Garami Leg Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
 
@@ -18,7 +18,7 @@ This class consists of several progressive drills that build upon each other. Ea
   - Seated Guard Leg Connection Control: 6 minutes (2 x 3-minute rounds)
 - Leg Entanglement Development: 12 minutes
   - Inside Position Shootout: 6 minutes (2 x 3-minute rounds)
-  - Imbalanced Inside Position Shootout with Standing: 6 minutes (2 x 3-minute rounds)
+  - Single Leg X to Hip Connection: 6 minutes (2 x 3-minute rounds)
 - Leg Attack Specific Drills: 15 minutes
   - Kneebar and Toehold Catch: 6 minutes (2 x 3-minute rounds)
   - Ashi Garami Leg Attack: 9 minutes (3 x 3-minute rounds)
@@ -38,8 +38,8 @@ This class consists of several progressive drills that build upon each other. Ea
 
 #### Defender
 **Position:** Standing with one leg connected/controlled by the seated attacker  
-**Objective:** Flatten the attacker onto their back and keep them flat for 3 seconds  
-**Win:** Successfully flatten the attacker and maintain them on their back for 3+ seconds
+**Objective:** Pass the guard by getting around the attacker or completely disconnect from the attacker  
+**Win:** Successfully pass the guard or achieve complete disconnection from the attacker
 
 ## Leg Entanglement Development
 
@@ -54,16 +54,21 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get both feet to inside position and entangle opponent's leg with a connection to the hip  
 **Win:** Successfully achieve inside position with both feet and establish hip connection on opponent's leg
 
-### 2.2 - [Imbalanced Inside Position Shootout with Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
+### 2.2 - [Single Leg X to Hip Connection](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
 
-**Overview:** An advanced leg entanglement drill where one player starts with inside position advantage while both players work to either stand up clean or establish dominant grounded control with hip attachment and ankle wrap.
+**Overview:** A leg entanglement drill where the bottom player starts in single leg X position working to take down the standing top player and establish hip connection with ankle wrap, while the top player works to strip connections and pass guard.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-#### Both Players
-**Position:** Both seated, with the attacker having inside position with their legs and both players holding their partner's ankles  
-**Objective:** Get up to standing position without legs entangled, OR get attached to opponent's hip and wrap their ankle with your arm while both players remain grounded  
-**Win:** Successfully stand up with legs completely free of entanglement, OR achieve hip attachment with the ankle wrapped while the defender is grounded
+#### Bottom Player
+**Position:** Starting in single leg X guard with one leg entangled on standing partner  
+**Objective:** Take the top player down to a hip position and connect to the hip with the ankle wrapped to win  
+**Win:** Successfully take down the top player and establish hip connection with ankle wrapped by your arm
+
+#### Top Player
+**Position:** Standing with one leg controlled by bottom player in single leg X position  
+**Objective:** Strip the connections and pass to get around the bottom player's guard  
+**Win:** Successfully strip connections and pass guard to establish dominant position
 
 ## Leg Attack Specific Drills
 
