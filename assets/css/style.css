@@ -208,3 +208,32 @@ footer a:hover {
 .back-button:hover {
     background-color: var(--primary-color);
 }
+
+/* Table styling with borders */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1rem 0;
+    background-color: var(--card-background);
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+table th {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: #e8e8e8;
+}
