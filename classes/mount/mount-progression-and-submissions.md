@@ -31,10 +31,9 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-| | Both Players |
-|---|---|
-| **Position** | Standing facing your partner with no initial connections ||
-| **Win** | Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown |
+#### Both Players
+**Position:** Standing facing your partner with no initial connections  
+**Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown
 
 ## Mount Control and Submission Drills
 
@@ -42,13 +41,17 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Overview:** Maintain top arm control. Sucks for bottom player.
 
-**Time: 3 minutes, 1 partners or 3 minutes total** - switching back and forth
+**Time:** 3 minutes, 1 partners or 3 minutes total - switching back and forth
 
-| | Top Player | Bottom Player |
-|---|---|---|
-| **Position** | Mounted on top with one of bottom player's arms by ear  | On back with partner mounted on top, one arm isolated with elbow away from ribs ||
-| **Constraints** | Must stay out of guard | None |
-| **Win** | Get both arms up by the bottom player's ears and hold for 3 seconds | Hands on the hips with no arms under the elbows or get to guard |
+#### Top Player
+**Position:** Mounted on top with one of bottom player's arms by ear  
+**Constraints:** Must stay out of guard  
+**Win:** Get both arms up by the bottom player's ears and hold for 3 seconds
+
+#### Bottom Player
+**Position:** On back with partner mounted on top, one arm isolated with elbow away from ribs  
+**Constraints:** None  
+**Win:** Hands on the hips with no arms under the elbows or get to guard
 
 ### 2.2 - [Mount S-Mount and Arm Triangle Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-s-mount-arm-triangle-progression.md)
 
@@ -56,11 +59,16 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-| | Top Player | Bottom Player |
-|---|---|---|
-| **Position** | Mounted on top with one of bottom player's arms by ear | On back with partner mounted on top, one arm isolated with elbow away from ribs ||
-| **Constraints** | Must stay out of guard | None |
-| **Win** | Hold s-mount position or arm triangle position for 3 seconds <br>Advanced: Sub, if they do main obj. first| Successfully get both hands on the hips with no arms under the elbows or get to guard |
+#### Top Player
+**Position:** Mounted on top with one of bottom player's arms by ear  
+**Constraints:** Must stay out of guard  
+**Win:** Hold s-mount position or arm triangle position for 3 seconds  
+**Advanced:** Sub, if they do main obj. first
+
+#### Bottom Player
+**Position:** On back with partner mounted on top, one arm isolated with elbow away from ribs  
+**Constraints:** None  
+**Win:** Successfully get both hands on the hips with no arms under the elbows or get to guard
 
 ## Guard Passing and Stabilization Drills
 
@@ -70,11 +78,16 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-| | Top Player | Bottom Player |
-|---|---|---|
-| **Position** | In any variation of side control on your partner (no grips) | On back with partner in any variation of side control ||
-| **Constraints** | Must stay out of guard | None |
-| **Win** | Hold s-mount position or arm triangle position for 3 seconds <br>Advanced: Sub, if they do main obj. first | Successfully get both knees in between you and your partner or establish closed guard |
+#### Top Player
+**Position:** In any variation of side control on your partner (no grips)  
+**Constraints:** Must stay out of guard  
+**Win:** Hold s-mount position or arm triangle position for 3 seconds  
+**Advanced:** Sub, if they do main obj. first
+
+#### Bottom Player
+**Position:** On back with partner in any variation of side control  
+**Constraints:** None  
+**Win:** Successfully get both knees in between you and your partner or establish closed guard
 
 ### 3.2 - [Stabilizing Pass to S-Mount and Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/stabilizing-pass-to-mount.md)
 
@@ -82,11 +95,16 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-| | Top Player | Bottom Player |
-|---|---|---|
-| **Position** | Hugging the bottom player's legs below hips, on one side | On back with partner hugging your legs, both legs on one side of partner's body | |
-| **Constraints** | Must stay out of guard | None |
-| **Win** | Hold s-mount position or arm triangle position for 3 seconds <br>Advanced: Sub, if they do main obj. first | Successfully get both feet back on partner's hips/biceps, establish closed guard, or stand up |
+#### Top Player
+**Position:** Hugging the bottom player's legs below hips, on one side  
+**Constraints:** Must stay out of guard  
+**Win:** Hold s-mount position or arm triangle position for 3 seconds  
+**Advanced:** Sub, if they do main obj. first
+
+#### Bottom Player
+**Position:** On back with partner hugging your legs, both legs on one side of partner's body  
+**Constraints:** None  
+**Win:** Successfully get both feet back on partner's hips/biceps, establish closed guard, or stand up
 
 ### 3.3 - [Headquarters Position Pass to Submissions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/headquarters-pass-to-submissions.md)
 
@@ -94,12 +112,17 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-| | Top Player | Bottom Player |
-|---|---|---|
-| **Position** | Standing in headquarters position over your partner (one leg in, one leg out) with one grip of your choice | On your back with partner in headquarters position (one leg in, one leg out), with one grip of your choice |
-| **Objective** | Pass the guard and advance to s-mount position or arm triangle position | Prevent the pass and achieve a dominant position or submission |
-| **Constraints** | None | None |
-| **Win** | Successfully pass the guard and achieve s-mount position or arm triangle position and hold for 3 seconds (can finish submission if agreed with partner) | Successfully sweep and come on top, submit your partner, take the back with both hooks, or stand up |
+#### Top Player
+**Position:** Standing in headquarters position over your partner (one leg in, one leg out) with one grip of your choice  
+**Objective:** Pass the guard and advance to s-mount position or arm triangle position  
+**Constraints:** None  
+**Win:** Successfully pass the guard and achieve s-mount position or arm triangle position and hold for 3 seconds (can finish submission if agreed with partner)
+
+#### Bottom Player
+**Position:** On your back with partner in headquarters position (one leg in, one leg out), with one grip of your choice  
+**Objective:** Prevent the pass and achieve a dominant position or submission  
+**Constraints:** None  
+**Win:** Successfully sweep and come on top, submit your partner, take the back with both hooks, or stand up
 
 ## Conclusion
 
