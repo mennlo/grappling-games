@@ -10,7 +10,7 @@ This class consists of six progressive drilling games that build upon each other
 3. [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
 4. [Half Guard Kimura Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-kimura-control.md)
 5. [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
-6. [Half Guard Knee Shield to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-knee-shield-to-submission.md)
+6. [Half Guard to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-to-submission.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -21,7 +21,7 @@ This class consists of six progressive drilling games that build upon each other
   - Half Guard Kimura Control: 6 minutes (2 x 3-minute rounds)
 - Pinning Drills: 12 minutes
   - Side Control Transitions: 6 minutes (2 x 3-minute rounds)
-  - Half Guard Knee Shield to Submission: 6 minutes (2 x 3-minute rounds)
+  - Half Guard to Submission: 6 minutes (2 x 3-minute rounds)
 
 ## Standing Drills
 
@@ -112,18 +112,18 @@ This class consists of six progressive drilling games that build upon each other
 **Objective:** Break the chest-to-chest connection using movement and framing  
 **Win:** Bring your feet or knees between you and your partner, OR reverse the position
 
-### 3.2 - [Half Guard Knee Shield to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-knee-shield-to-submission.md)
+### 3.2 - [Half Guard to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-to-submission.md)
 
-**Overview:** A focused drill on passing half guard when the bottom player has established a knee shield, with the top player working to neutralize the frame and achieve upper body submissions from any position outside of full guard.
+**Overview:** A focused drill on passing half guard from an over-the-hips control position, with the top player working to advance position and achieve upper body submissions from any position outside of full guard.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Top Player
-**Position:** In top half guard with your partner's knee shield against your torso, no upper body connection established  
-**Objective:** Neutralize the knee shield, advance position, and secure an upper body submission from any position that isn't full guard  
-**Win:** Finish any upper body submission (arm triangle, kimura, americana, armbar, straight armbar, etc.) from any position outside of full guard
+**Position:** In top half guard with your arms hugging over the top of your partner's hips  
+**Objective:** Maintain hip control, advance position, and secure an upper body submission from any position that isn't full guard  
+**Win:** Finish any upper body submission (arm triangle, kimura, americana, armbar, straight armbar, etc.) from any top position outside of full guard
 
 #### Bottom Player
-**Position:** In half guard with knee shield established against your partner's torso  
-**Objective:** Use the knee shield and movement to create space, improve your position, and look for submission opportunities  
+**Position:** In half guard on your side with your partner hugging over the top of your hips  
+**Objective:** Use movement and frames to create space, improve your position, and look for submission opportunities  
 **Win:** Get both feet on the top player's hips, establish closed guard, sweep and come on top, OR secure any submission
