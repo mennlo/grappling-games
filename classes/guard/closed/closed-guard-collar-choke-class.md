@@ -6,8 +6,8 @@ This class focuses on developing collar choke attacks and defensive awareness fr
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
 1. [Front Headlock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
-2. [Closed Guard Collar Choke or Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
-3. [Closed Guard Collar Choke Armbar Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-armbar-sweep.md)
+2. [Closed Guard Collar Choke Grip Setup](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-grip-setup.md)
+3. [Closed Guard Collar Choke or Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
 4. [Mount Collar Choke or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
 5. [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 6. [Gi Choke from Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
@@ -16,8 +16,8 @@ This class consists of several progressive drills that build upon each other. Ea
 - Standing Drills: 6 minutes
   - Front Headlock Control: 6 minutes (2 x 3-minute rounds)
 - Closed Guard Drills: 12 minutes
+  - Closed Guard Collar Choke Grip Setup: 6 minutes (2 x 3-minute rounds)
   - Closed Guard Collar Choke or Sweep: 6 minutes (2 x 3-minute rounds)
-  - Closed Guard Collar Choke Armbar Sweep: 6 minutes (2 x 3-minute rounds)
 - Pinning Drills: 18 minutes
   - Mount Collar Choke or Back Take: 6 minutes (2 x 3-minute rounds)
   - Back Control Transitions: 6 minutes (2 x 3-minute rounds)
@@ -43,7 +43,23 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Closed Guard Drills
 
-### 2.1 - [Closed Guard Collar Choke or Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
+### 2.1 - [Closed Guard Collar Choke Grip Setup](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-grip-setup.md)
+
+**Overview:** A closed guard drill where the bottom player works to establish collar choke grips and head-to-head control while the top player defends and works to open the guard
+
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+
+#### Bottom Player
+**Position:** On your back with closed guard around your partner's waist  
+**Objective:** Get both hands covering your partner's neck with at least one hand in the collar, and your head touching your partner's head  
+**Win:** Successfully get both hands covering the neck with at least one in the collar, and head touching partner's head
+
+#### Top Player
+**Position:** Kneeling inside your partner's closed guard  
+**Objective:** Open the guard and get to half guard (if on knees) or split your partner's legs (if standing)  
+**Win:** Successfully open the guard and transition to half guard (if on knees) or split the legs (if standing)
+
+### 2.2 - [Closed Guard Collar Choke or Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
 
 **Overview:** A closed guard drill where the bottom player works to secure collar chokes or execute sweeps, starting with one hand in the collar and partner's posture broken
 
@@ -56,22 +72,6 @@ This class consists of several progressive drills that build upon each other. Ea
 
 #### Top Player
 **Position:** Kneeling inside your partner's closed guard with posture broken down and one of their hands in your collar  
-**Objective:** Stand up with proper posture and open the closed guard or split your partner's legs to establish half guard  
-**Win:** Successfully stand up while maintaining good posture and open the closed guard or transition to half guard position
-
-### 2.2 - [Closed Guard Collar Choke Armbar Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-armbar-sweep.md)
-
-**Overview:** A closed guard drill where the bottom player works to secure collar chokes, armbars, or execute sweeps from a neutral starting position
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
-
-#### Bottom Player
-**Position:** On your back with closed guard around your partner's waist  
-**Objective:** Work to secure collar chokes, armbars, or execute sweeps  
-**Win:** Successfully secure a collar choke or armbar submission, or complete a sweep where you end up on top
-
-#### Top Player
-**Position:** Kneeling inside your partner's closed guard  
 **Objective:** Stand up with proper posture and open the closed guard or split your partner's legs to establish half guard  
 **Win:** Successfully stand up while maintaining good posture and open the closed guard or transition to half guard position
 
