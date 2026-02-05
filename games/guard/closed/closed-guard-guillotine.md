@@ -7,7 +7,7 @@ A closed guard drill where the attacker starts with a chin strap grip and works 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 ### Attacker
-**Position:** Sitting with closed guard, one arm over your partner's neck with a chin strap grip, and the other arm on your partner's back  
+**Position:** Sitting with closed guard, one arm over your partner's neck with a chin strap grip, and the other arm posting on the ground behind you
 **Objective:** Connect your hands while wrapping your partner's neck to establish either an arm-in or arm-out guillotine  
 **Win:** Successfully connect your hands and establish guillotine control (either variation)  
 

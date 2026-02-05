@@ -9,7 +9,7 @@ A closed guard drill where the bottom player works to establish multiple offensi
 ### Bottom Player
 **Position:** On your back with closed guard around your partner's waist  
 **Objective:** Work to establish a kimura grip, wrap your arm and connect hands around their neck, or make them post to the side  
-**Win:** Successfully lock up a kimura grip, wrap your arm and connect your hands around their partner's neck (with or without the arm), or make them post to the side 3 times/sweep
+**Win:** Successfully lock up a kimura grip, wrap your arm and connect your hands around their partner's neck (with or without the arm), or sweep/take the back
 
 #### Top Player
 **Position:** Kneeling inside your partner's closed guard  
