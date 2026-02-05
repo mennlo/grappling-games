@@ -14,7 +14,7 @@ A transitional drill focusing on advancing from side control to various head and
 ### Bottom Player
 **Position:** On back in bottom side control with only a frame at the hip  
 **Objective:** Use limited defensive resources to recover guard or reverse the position  
-**Win:** Successfully recover any form of guard or reverse the position  
+**Win:** Successfully return to guard with control of at least one leg above the knee, or successfully reverse the position to become the top player 
 
 ## Instructions
 1. Partners start with the top player in side control with established underhook and crossface
