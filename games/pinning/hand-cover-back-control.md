@@ -1,7 +1,7 @@
 # Hand Cover Back Control
 
 ## Overview
-A back control drill focused on covering and controlling your partner's hands from chest-to-back position, simulating hand control after a successful toreando pass.
+A back control drill focused on covering and controlling your partner's hands from chest-to-back position, simulating hand control after a successful toreando pass. If the back controller wraps an arm under the defender's neck or establishes a deep collar grip, roles immediately switch and partners reset to the starting position.
 
 ## Details
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth  
@@ -10,6 +10,7 @@ A back control drill focused on covering and controlling your partner's hands fr
 **Position:** Chest-to-back position with your partner  
 **Objective:** Work to cover and control your partner's hands  
 **Win:** Successfully cover and control both of your partner's hands  
+**Reset/Switch:** If you wrap an arm under the defender's neck or establish a deep collar grip on the defender's gi collar, restart from starting position  
 
 ### Defending Player
 **Position:** With your back to your partner in chest-to-back position  
@@ -21,8 +22,9 @@ A back control drill focused on covering and controlling your partner's hands fr
 2. Defending player has their back to the controller
 3. Back controller works to cover and control both of the defending player's hands
 4. Defending player works to protect their hands without attempting to escape the position
-5. Defending player cannot escape but should focus solely on hand protection
-6. Switch roles after the time period
+5. If the back controller wraps an arm under the defender's neck or establishes a deep collar grip on the defender's gi collar, partners immediately switch roles and reset to the starting position
+6. Defending player cannot escape but should focus solely on hand protection
+7. Switch roles after the time period
 
 ## Coaching Points
 For back controllers:
@@ -31,6 +33,7 @@ For back controllers:
 - Use your legs to help control your partner's body position
 - Look for opportunities when hands become exposed during movement
 - Maintain chest-to-back connection throughout the drill
+- Be aware of your arm position — sliding under the neck or grabbing a deep collar grip will reset the drill
 
 For defending players:
 - Keep your hands close to your body and protected
