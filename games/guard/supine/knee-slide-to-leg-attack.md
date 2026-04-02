@@ -8,7 +8,7 @@ A cooperative technical drill from top half guard where the top player practices
 
 ### Top Player
 **Position:** Top half guard, partner has knee shield  
-**Objective:** Slide your outside knee across the belt line while underhooking the partner's top leg, then pivot to face the legs and establish a leg attack configuration for a kneebar or toehold entry  
+**Objective:** Slide your outside knee across the belt line while underhooking the partner's top leg, pivot to face the legs in a leg attack configuration, then finish both a kneebar and a toehold from that position  
 
 ### Bottom Player
 **Position:** Bottom half guard with knee shield held passively - provide a consistent, relaxed body position for your partner to work through  
@@ -20,8 +20,10 @@ A cooperative technical drill from top half guard where the top player practices
 3. Top player slides their outside knee across the bottom player's belt line
 4. As the knee crosses, top player underhooks the bottom player's top leg
 5. Top player pivots on their posted foot to turn and face the legs
-6. Both players reset and repeat
-7. Switch roles after the designated time
+6. Top player establishes hip attachment, then finishes a kneebar (straighten the leg, both hands around the heel)
+7. Reset to the leg attack configuration and finish a toehold (flex the foot, one hand on toes, one hand on heel)
+8. Both players fully reset to half guard and repeat
+9. Switch roles after the designated time
 
 ## Coaching Points
 For top player:
@@ -30,4 +32,7 @@ For top player:
 - Immediately underhook the top leg as your knee crosses - connect without delay
 - Pivot on your posted foot to turn and face the legs cleanly
 - Maintain hip connection to the trapped leg throughout the pivot
-- Once you face the legs, settle your attachment before resetting
+- Once you face the legs, settle your attachment before moving to the finish
+- For kneebar: straighten the leg fully and connect both hands around the heel before applying pressure
+- For toehold: flex the foot first, then place one hand on the toes and wrap the other around the heel
+- Drill both finishes every rep - kneebar first, then toehold, before resetting

@@ -7,7 +7,7 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 2. [Progressive Guard Passing 2](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
 3. [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
 4. [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
-5. [Knee Slide to Leg Attack Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/knee-slide-to-leg-attack.md)
+5. [Knee Slide to Leg Attack Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slide-to-leg-attack.md)
 6. [Knee Shield Half Guard - Passing or Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-or-submission.md)
 
 **Total Drilling Time:** 36 minutes
@@ -97,15 +97,15 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 **Objective:** Escape the leg entanglement and free your knee line when the attacker falls to the side  
 **Win:** Successfully escape the leg entanglement and free your knee line completely  
 
-### 3.2 - [Knee Slide to Leg Attack Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/knee-slide-to-leg-attack.md)
+### 3.2 - [Knee Slide to Leg Attack Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slide-to-leg-attack.md)
 
-**Overview:** A cooperative technical drill from top half guard where the top player practices sliding their outside knee across the belt line, underhooking the top leg, and pivoting to arrive facing the legs in a leg attack configuration. Bottom player holds a passive knee shield with no resistance.
+**Overview:** A cooperative technical drill from top half guard where the top player practices sliding their outside knee across the belt line, underhooking the top leg, pivoting to face the legs, and finishing both a kneebar and a toehold from that position. Bottom player holds a passive knee shield with no resistance.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Top Player
 **Position:** Top half guard, partner has passive knee shield  
-**Objective:** Slide your outside knee across the belt line, underhook the partner's top leg, and pivot to face the legs in a leg attack configuration  
+**Objective:** Slide your outside knee across the belt line, underhook the partner's top leg, pivot to face the legs in a leg attack configuration, then finish both a kneebar and a toehold from that position  
 
 #### Bottom Player
 **Position:** Bottom half guard with knee shield held passively  
